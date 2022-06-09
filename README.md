@@ -1,2 +1,5 @@
 # journals-on-twitter
-Dataset of the Twitter accoutns of scientific journals (based on the Web of Science indices SCIE, SSCI and AHCI)
+
+Here is a dataset of 3.485 Twitter accounts pertaining to a sample of 13.821 distinct journals listed in Web of Science’s three major indices (SCIE, SSCI and AHCI).
+
+The dataset is available under a Creative Commons-license (CC0).
