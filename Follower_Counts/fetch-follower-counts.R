@@ -10,7 +10,7 @@ df <- read_csv("twitter_accounts_of_journals.csv") %>%
 DF <- list()
 
 # open the Twitter API to get follower counts
-for(i in 3388:nrow(df)) {
+for(i in 1:nrow(df)) {
 
   print(paste0(i, "/", nrow(df), ": ", df$journal_title[i], " (@", df$twitter[i], ")"))
   

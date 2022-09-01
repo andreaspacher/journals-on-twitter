@@ -684,7 +684,7 @@ american journal of industrial medicine,0271-3586,1097-0274,NA,0,0,1,0,"Public, 
 american journal of infection control,0196-6553,1527-3296,AJICJournal,0,0,1,1,"Public, Environmental & Occupational Health | Infectious Diseases",NA,NA,MOSBY-ELSEVIER,2011-07-05
 american journal of international law,0002-9300,2161-7953,AJIL_andUnbound,0,1,0,1,NA,International Relations | Law,NA,CAMBRIDGE UNIV PRESS,2015-07-14
 american journal of kidney diseases,0272-6386,1523-6838,AJKDonline,0,0,1,1,Urology & Nephrology,NA,NA,W B SAUNDERS CO-ELSEVIER INC,2011-12-15
-american journal of law & medicine,0098-8588,2375-835X,american journal of occupational therapy,0,1,0,1,NA,Law,NA,CAMBRIDGE UNIV PRESS,2018-08-26
+american journal of law & medicine,0098-8588,2375-835X,JLME_ASLME,0,1,0,1,NA,Law,NA,CAMBRIDGE UNIV PRESS,2018-08-26
 american journal of managed care,1088-0224,1936-2692,AJMC_Journal,0,1,1,1,"Health Care Sciences & Services | Medicine, General & Internal",Health Policy & Services,NA,MANAGED CARE & HEALTHCARE COMMUNICATIONS LLC,2009-07-10
 american journal of managed care,1088-0224,1936-2692,AJMC_Journal,0,1,1,1,"Health Care Sciences & Services | Medicine, General & Internal",Health Policy & Services,NA,MANAGED CARE & HEALTHCARE COMMUNICATIONS LLC,2009-07-10
 american journal of mathematics,0002-9327,1080-6377,NA,0,0,1,0,Mathematics,NA,NA,JOHNS HOPKINS UNIV PRESS,NA
@@ -970,9 +970,9 @@ annals of public and cooperative economics,1370-4788,1467-8292,NA,0,1,0,0,NA,Eco
 annals of pure and applied logic,0168-0072,1873-2461,NA,0,0,1,0,"Mathematics, Applied | Mathematics | Logic",NA,NA,ELSEVIER,NA
 annals of regional science,0570-1864,1432-0592,NA,0,1,0,0,NA,Economics | Environmental Studies | Geography | Regional & Urban Planning,NA,SPRINGER,NA
 annals of saudi medicine,0256-4947,1319-9226,annsaudimed,0,0,1,1,"Medicine, General & Internal",NA,NA,K FAISAL SPEC HOSP RES CENTRE,2012-04-16
-annals of science,0003-3790,1464-505X,annals of statistics,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,TAYLOR & FRANCIS LTD,2018-08-26
-annals of science,0003-3790,1464-505X,annals of statistics,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,TAYLOR & FRANCIS LTD,2018-08-26
-annals of science,0003-3790,1464-505X,annals of statistics,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,TAYLOR & FRANCIS LTD,2018-08-26
+annals of science,0003-3790,1464-505X,AnnalsOfScience,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,TAYLOR & FRANCIS LTD,2018-08-26
+annals of science,0003-3790,1464-505X,AnnalsOfScience,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,TAYLOR & FRANCIS LTD,2018-08-26
+annals of science,0003-3790,1464-505X,AnnalsOfScience,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,TAYLOR & FRANCIS LTD,2018-08-26
 annals of statistics,0090-5364,2168-8966,NA,0,0,1,0,Statistics & Probability,NA,NA,INST MATHEMATICAL STATISTICS-IMS,NA
 annals of surgery,0003-4932,1528-1140,AnnalsofSurgery,0,0,1,1,Surgery,NA,NA,LIPPINCOTT WILLIAMS & WILKINS,2011-10-31
 annals of surgical oncology,1068-9265,1534-4681,NA,0,0,1,0,Oncology | Surgery,NA,NA,SPRINGER,NA
@@ -1167,7 +1167,7 @@ applied linguistics,0142-6001,1477-450X,NA,0,1,0,0,NA,Linguistics,NA,OXFORD UNIV
 applied linguistics review,1868-6303,1868-6311,NA,1,1,0,0,NA,Linguistics,Language & Linguistics,WALTER DE GRUYTER GMBH,NA
 applied linguistics review,1868-6303,1868-6311,NA,1,1,0,0,NA,Linguistics,Language & Linguistics,WALTER DE GRUYTER GMBH,NA
 applied magnetic resonance,0937-9347,1613-7507,NA,0,0,1,0,"Physics, Atomic, Molecular & Chemical | Spectroscopy",NA,NA,SPRINGER WIEN,NA
-applied materials today,2352-9407,2352-9407,applied mathematical modelling,0,0,1,1,"Materials Science, Multidisciplinary",NA,NA,ELSEVIER,2018-08-26
+applied materials today,2352-9407,2352-9407,ApplMaterToday,0,0,1,1,"Materials Science, Multidisciplinary",NA,NA,ELSEVIER,2018-08-26
 applied mathematical modelling,0307-904X,1872-8480,NA,0,0,1,0,"Engineering, Multidisciplinary | Mathematics, Interdisciplinary Applications | Mechanics",NA,NA,ELSEVIER SCIENCE INC,NA
 applied mathematics-a journal of chinese universities series b,1005-1031,1993-0445,NA,0,0,1,0,"Mathematics, Applied",NA,NA,ZHEJIANG UNIV PRESS,NA
 applied mathematics and computation,0096-3003,1873-5649,NA,0,0,1,0,"Mathematics, Applied",NA,NA,ELSEVIER SCIENCE INC,NA
@@ -1184,7 +1184,7 @@ applied numerical mathematics,0168-9274,1873-5460,NA,0,0,1,0,"Mathematics, Appli
 applied nursing research,0897-1897,1532-8201,NA,0,1,1,0,Nursing,Nursing,NA,W B SAUNDERS CO-ELSEVIER INC,NA
 applied nursing research,0897-1897,1532-8201,NA,0,1,1,0,Nursing,Nursing,NA,W B SAUNDERS CO-ELSEVIER INC,NA
 applied ocean research,0141-1187,1879-1549,NA,0,0,1,0,"Engineering, Ocean | Oceanography",NA,NA,ELSEVIER SCI LTD,NA
-applied ontology,1570-5838,1875-8533,applied optics,0,0,1,1,"Computer Science, Artificial Intelligence | Computer Science, Information Systems | Computer Science, Theory & Methods",NA,NA,IOS PRESS,2018-08-26
+applied ontology,1570-5838,1875-8533,AppliedOntology,0,0,1,1,"Computer Science, Artificial Intelligence | Computer Science, Information Systems | Computer Science, Theory & Methods",NA,NA,IOS PRESS,2018-08-26
 applied optics,1559-128X,2155-3165,NA,0,0,1,0,Optics,NA,NA,OPTICAL SOC AMER,NA
 applied organometallic chemistry,0268-2605,1099-0739,NA,0,0,1,0,"Chemistry, Applied | Chemistry, Inorganic & Nuclear",NA,NA,WILEY,NA
 applied physics a-materials science & processing,0947-8396,1432-0630,NA,0,0,1,0,"Materials Science, Multidisciplinary | Physics, Applied",NA,NA,SPRINGER HEIDELBERG,NA
@@ -1231,7 +1231,7 @@ aquatic insects,0165-0424,1744-4152,NA,0,0,1,0,Entomology,NA,NA,TAYLOR & FRANCIS
 aquatic invasions,1798-6540,1818-5487,NA,0,0,1,0,Ecology | Marine & Freshwater Biology,NA,NA,REGIONAL EURO-ASIAN BIOLOGICAL INVASIONS CENTRE-REABIC,NA
 aquatic living resources,0990-7440,1765-2952,NA,0,0,1,0,Fisheries | Marine & Freshwater Biology,NA,NA,EDP SCIENCES S A,NA
 aquatic mammals,0167-5427,1996-7292,AquaticMammalsJ,0,0,1,1,Marine & Freshwater Biology | Zoology,NA,NA,EUROPEAN ASSOC AQUATIC MAMMALS,2016-10-11
-aquatic microbial ecology,0948-3055,1616-1564,aquatic sciences,0,0,1,1,Ecology | Marine & Freshwater Biology | Microbiology,NA,NA,INTER-RESEARCH,2018-08-26
+aquatic microbial ecology,0948-3055,1616-1564,AME_IntRes,0,0,1,1,Ecology | Marine & Freshwater Biology | Microbiology,NA,NA,INTER-RESEARCH,2018-08-26
 aquatic sciences,1015-1621,1420-9055,NA,0,0,1,0,Environmental Sciences | Limnology | Marine & Freshwater Biology,NA,NA,SPRINGER BASEL AG,NA
 aquatic toxicology,0166-445X,1879-1514,NA,0,0,1,0,Marine & Freshwater Biology | Toxicology,NA,NA,ELSEVIER,NA
 arab journal of gastroenterology,1687-1979,2090-2387,NA,0,0,1,0,Gastroenterology & Hepatology,NA,NA,ELSEVIER,NA
@@ -1292,7 +1292,7 @@ archive for the psychology of religion-archiv fur religionspsychologie,0084-6724
 archive for the psychology of religion-archiv fur religionspsychologie,0084-6724,1573-6121,NA,1,1,0,0,NA,"Psychology, Multidisciplinary",Religion,SAGE PUBLICATIONS LTD,NA
 archive of applied mechanics,0939-1533,1432-0681,NA,0,0,1,0,Mechanics,NA,NA,SPRINGER,NA
 archives and records-the journal of the archives and records association,2325-7962,2325-7989,NA,1,0,0,0,NA,NA,"Humanities, Multidisciplinary","ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
-archives animal breeding,0003-9438,2363-9822,archives of acoustics,0,0,1,1,"Agriculture, Dairy & Animal Science",NA,NA,COPERNICUS GESELLSCHAFT MBH,2018-08-26
+archives animal breeding,0003-9438,2363-9822,AAB_journal,0,0,1,1,"Agriculture, Dairy & Animal Science",NA,NA,COPERNICUS GESELLSCHAFT MBH,2018-08-26
 archives de pediatrie,0929-693X,1769-664X,NA,0,0,1,0,Pediatrics,NA,NA,ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER,NA
 archives des maladies professionnelles et de l environnement,1775-8785,1778-4190,NA,0,0,1,0,"Public, Environmental & Occupational Health",NA,NA,ELSEVIER SCIENCE INC,NA
 archives europeennes de sociologie,0003-9756,1474-0583,NA,0,1,0,0,NA,Sociology,NA,CAMBRIDGE UNIV PRESS,NA
@@ -3750,7 +3750,7 @@ diabetologie und stoffwechsel,1861-9002,1861-9010,NA,0,0,1,0,Endocrinology & Met
 diabetology & metabolic syndrome,1758-5996,1758-5996,NA,0,0,1,0,Endocrinology & Metabolism,NA,NA,BMC,NA
 diachronica,0176-4225,1569-9714,Diachronica2,1,1,0,1,NA,Linguistics,Language & Linguistics,JOHN BENJAMINS PUBLISHING CO,2020-05-25
 diachronica,0176-4225,1569-9714,Diachronica2,1,1,0,1,NA,Linguistics,Language & Linguistics,JOHN BENJAMINS PUBLISHING CO,2020-05-25
-diacritics-a review of contemporary criticism,0300-7162,1080-6539,https://twitter.com/read_diacritics,1,0,0,1,NA,NA,Literary Theory & Criticism,JOHNS HOPKINS UNIV PRESS,NA
+diacritics-a review of contemporary criticism,0300-7162,1080-6539,read_diacritics,1,0,0,1,NA,NA,Literary Theory & Criticism,JOHNS HOPKINS UNIV PRESS,NA
 diagnostic and interventional imaging,2211-5684,2211-5684,NA,0,0,1,0,"Radiology, Nuclear Medicine & Medical Imaging",NA,NA,"ELSEVIER MASSON, CORPORATION OFFICE",NA
 diagnostic and interventional radiology,1305-3825,1305-3612,DiagnIntervRad,0,0,1,1,"Radiology, Nuclear Medicine & Medical Imaging",NA,NA,TURKISH SOC RADIOLOGY,2019-12-23
 diagnostic cytopathology,8755-1039,1097-0339,DiagnosticCyto,0,0,1,1,Medical Laboratory Technology | Pathology,NA,NA,WILEY,2017-02-15
@@ -4030,7 +4030,7 @@ economic systems,0939-3625,1878-5433,NA,0,1,0,0,NA,Economics,NA,ELSEVIER,NA
 economic systems research,0953-5314,1469-5758,NA,0,1,0,0,NA,Economics,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 economic theory,0938-2259,1432-0479,NA,0,1,0,0,NA,Economics,NA,SPRINGER,NA
 economica,0013-0427,1468-0335,EconomicaLSE,0,1,0,1,NA,Economics,NA,WILEY,2016-06-07
-economics-the open access open-assessment e-journal,1864-6042,1864-6042,ej_economics,0,1,0,1,NA,Economics,NA,WALTER DE GRUYTER GMBH,2009-08-13
+economics-the open access open-assessment e-journal,1864-6042,1864-6042,NA,0,1,0,1,NA,Economics,NA,WALTER DE GRUYTER GMBH,2009-08-13
 economics & human biology,1570-677X,1873-6130,NA,0,1,1,0,"Public, Environmental & Occupational Health","Public, Environmental & Occupational Health | Economics",NA,ELSEVIER,NA
 economics & human biology,1570-677X,1873-6130,NA,0,1,1,0,"Public, Environmental & Occupational Health","Public, Environmental & Occupational Health | Economics",NA,ELSEVIER,NA
 economics & politics,0954-1985,1468-0343,NA,0,1,0,0,NA,Economics | Political Science,NA,"WILEY PERIODICALS, INC",NA
@@ -4691,7 +4691,7 @@ european review of economic history,1361-4916,1474-0044,NA,0,1,0,0,NA,Economics 
 european review of history-revue europeenne d histoire,1350-7486,1469-8293,NA,1,0,0,0,NA,NA,History,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 european review of social psychology,1046-3283,1479-277X,NA,0,1,0,0,NA,"Psychology, Social",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 european security,0966-2839,1746-1545,european_sec,0,1,0,1,NA,Area Studies | International Relations | Political Science,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",2016-01-04
-european societies,1461-6696,1469-8307,euro_societies,0,1,0,1,NA,Sociology,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
+european societies,1461-6696,1469-8307,EuroSocieties1,0,1,0,1,NA,Sociology,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 european sociological review,0266-7215,1468-2672,esr_news,0,1,0,1,NA,Sociology,NA,OXFORD UNIV PRESS,2013-10-23
 european spine journal,0940-6719,1432-0932,EurSpineJournal,0,0,1,1,Clinical Neurology | Orthopedics,NA,NA,SPRINGER,2015-08-26
 european sport management quarterly,1618-4742,1746-031X,EuroSportManQ,0,1,0,1,NA,"Hospitality, Leisure, Sport & Tourism",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",2017-02-01
@@ -4856,7 +4856,7 @@ febs open bio,2211-5463,2211-5463,FEBSOpenBio,0,0,1,1,Biochemistry & Molecular B
 federal reserve bank of st louis review,0014-9187,2163-4505,NA,0,1,0,0,NA,"Business, Finance | Economics",NA,FEDERAL RESERVE BANK ST LOUIS,NA
 female pelvic medicine and reconstructive surgery,2151-8378,2154-4212,NA,0,0,1,0,Obstetrics & Gynecology,NA,NA,LIPPINCOTT WILLIAMS & WILKINS,NA
 feminism & psychology,0959-3535,1461-7161,FemPsychJournal,0,1,0,1,NA,"Psychology, Multidisciplinary | Women'S Studies",NA,SAGE PUBLICATIONS LTD,2017-08-10
-feminist criminology,1557-0851,1557-086X,DWCFeminist,0,1,0,1,NA,Criminology & Penology,NA,SAGE PUBLICATIONS INC,2018-10-09
+feminist criminology,1557-0851,1557-086X,FCXCrim,0,1,0,1,NA,Criminology & Penology,NA,SAGE PUBLICATIONS INC,2018-10-09
 feminist economics,1354-5701,1466-4372,FeministEcon,0,1,0,1,NA,Economics | Women'S Studies,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",2012-12-06
 feminist legal studies,0966-3622,1572-8455,fls_journal,0,1,0,1,NA,Law | Women'S Studies,NA,SPRINGER,2013-01-15
 feminist media studies,1468-0777,1471-5902,femmediastudies,0,1,0,1,NA,Communication | Women'S Studies,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",2017-03-27
@@ -5086,7 +5086,7 @@ frontiers-a journal of women studies,0160-9009,1536-0334,Frontiers_Women,0,1,0,1
 frontiers in aging neuroscience,1663-4365,1663-4365,NA,0,0,1,0,Geriatrics & Gerontology | Neurosciences,NA,NA,FRONTIERS MEDIA SA,NA
 frontiers in behavioral neuroscience,1662-5153,1662-5153,NA,0,0,1,0,Behavioral Sciences | Neurosciences,NA,NA,FRONTIERS MEDIA SA,NA
 frontiers in bioengineering and biotechnology,2296-4185,2296-4185,FrontBioeng,0,0,1,1,Multidisciplinary Sciences,NA,NA,FRONTIERS MEDIA SA,2013-05-27
-frontiers in bioscience-landmark,2768-6701,2768-6698,BiosciResInst,0,0,1,1,Biochemistry & Molecular Biology | Cell Biology,NA,NA,BIOSCIENCE RESEARCH INST-BRI,NA
+frontiers in bioscience-landmark,2768-6701,2768-6698,Landmark_IMR,0,0,1,1,Biochemistry & Molecular Biology | Cell Biology,NA,NA,BIOSCIENCE RESEARCH INST-BRI,NA
 frontiers in cardiovascular medicine,2297-055X,2297-055X,FrontCVMedicine,0,0,1,1,Cardiac & Cardiovascular System,NA,NA,FRONTIERS MEDIA SA,2014-05-13
 frontiers in cell and developmental biology,2296-634X,2296-634X,FrontCellDevBio,0,0,1,1,Cell Biology | Developmental Biology,NA,NA,FRONTIERS MEDIA SA,2013-09-26
 frontiers in cellular and infection microbiology,2235-2988,2235-2988,FrontCellInfect,0,0,1,1,Immunology | Microbiology,NA,NA,FRONTIERS MEDIA SA,2018-05-02
@@ -7211,7 +7211,7 @@ japanese psychological research,0021-5368,1468-5884,NA,0,1,0,0,NA,"Psychology, M
 jaro-journal of the association for research in otolaryngology,1525-3961,1438-7573,NA,0,0,1,0,Neurosciences | Otorhinolaryngology,NA,NA,SPRINGER,NA
 jarq-japan agricultural research quarterly,0021-3551,2185-8896,NA,0,0,1,0,"Agriculture, Multidisciplinary",NA,NA,JAPAN INT RESEARCH CENTER AGRICULTURAL SCIENCES,NA
 jasss-the journal of artificial societies and social simulation,1460-7425,1460-7425,JASSSJournal,0,1,0,1,NA,"Social Sciences, Interdisciplinary",NA,J A S S S,2015-11-02
-javma-journal of the american veterinary medical association,0003-1488,1943-569X,AVMAJournals,0,0,1,1,Veterinary Sciences,NA,NA,AMER VETERINARY MEDICAL ASSOC,NA
+javma-journal of the american veterinary medical association,0003-1488,1943-569X,AVMAJAVMA,0,0,1,1,Veterinary Sciences,NA,NA,AMER VETERINARY MEDICAL ASSOC,NA
 javnost-the public,1318-3222,1854-8377,NA,0,1,0,0,NA,Communication,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 jci insight,2324-7703,2379-3708,JCI_insight,0,0,1,1,"Medicine, Research & Experimental",NA,NA,AMER SOC CLINICAL INVESTIGATION INC,2016-10-07
 jcms-journal of cinema and media studies,2578-4900,2578-4919,JCMSJournal,1,0,0,1,NA,NA,"Film, Radio, Television",UNIV TEXAS PRESS,2012-07-25
@@ -7650,7 +7650,7 @@ journal of chemical crystallography,1074-1542,1572-8854,NA,0,0,1,0,Crystallograp
 journal of chemical ecology,0098-0331,1573-1561,NA,0,0,1,0,Biochemistry & Molecular Biology | Ecology,NA,NA,SPRINGER,NA
 journal of chemical education,0021-9584,1938-1328,NA,0,0,1,0,"Chemistry, Multidisciplinary | Education, Scientific Disciplines",NA,NA,AMER CHEMICAL SOC,NA
 journal of chemical engineering of japan,0021-9592,0021-9592,NA,0,0,1,0,"Engineering, Chemical",NA,NA,SOC CHEMICAL ENG JAPAN,NA
-journal of chemical information and modeling,1549-9596,1549-960X,JCIM_ACS,0,0,1,1,"Chemistry, Medicinal | Chemistry, Multidisciplinary | Computer Science, Information Systems | Computer Science, Interdisciplinary Applications",NA,NA,AMER CHEMICAL SOC,NA
+journal of chemical information and modeling,1549-9596,1549-960X,JCIM_JCTC,0,0,1,1,"Chemistry, Medicinal | Chemistry, Multidisciplinary | Computer Science, Information Systems | Computer Science, Interdisciplinary Applications",NA,NA,AMER CHEMICAL SOC,NA
 journal of chemical neuroanatomy,0891-0618,1873-6300,NA,0,0,1,0,Biochemistry & Molecular Biology | Neurosciences,NA,NA,ELSEVIER,NA
 journal of chemical physics,0021-9606,1089-7690,JChemPhys,0,0,1,1,"Chemistry, Physical | Physics, Atomic, Molecular & Chemical",NA,NA,AIP PUBLISHING,2022-03-09
 journal of chemical research,1747-5198,2047-6507,NA,0,0,1,0,"Chemistry, Multidisciplinary",NA,NA,SAGE PUBLICATIONS LTD,NA
@@ -7769,7 +7769,7 @@ journal of community health nursing,0737-0016,1532-7655,NA,0,1,1,0,Nursing,Nursi
 journal of community psychology,0090-4392,1520-6629,NA,0,1,0,0,NA,"Public, Environmental & Occupational Health | Psychology, Multidisciplinary | Social Work",NA,WILEY,NA
 journal of commutative algebra,1939-0807,1939-2346,NA,0,0,1,0,Mathematics,NA,NA,ROCKY MT MATH CONSORTIUM,NA
 journal of comparative economics,0147-5967,1095-7227,NA,0,1,0,0,NA,Economics,NA,ACADEMIC PRESS INC ELSEVIER SCIENCE,NA
-journal of comparative effectiveness research,2042-6305,2042-6313,fsgcer,0,0,1,1,Health Care Sciences & Services,NA,NA,FUTURE MEDICINE LTD,2014-07-22
+journal of comparative effectiveness research,2042-6305,2042-6313,Journal_CER,0,0,1,1,Health Care Sciences & Services,NA,NA,FUTURE MEDICINE LTD,2014-07-22
 journal of comparative family studies,0047-2328,1929-9850,NA,0,1,0,0,NA,Family Studies,NA,UNIV TORONTO PRESS INC,NA
 journal of comparative germanic linguistics,1383-4924,1572-8552,NA,1,1,0,0,NA,Linguistics,Language & Linguistics,SPRINGER,NA
 journal of comparative germanic linguistics,1383-4924,1572-8552,NA,1,1,0,0,NA,Linguistics,Language & Linguistics,SPRINGER,NA
@@ -7908,7 +7908,7 @@ journal of developmental and life-course criminology,2199-4641,2199-465X,NA,0,1,
 journal of developmental and physical disabilities,1056-263X,1573-3580,NA,0,1,0,0,NA,"Education, Special | Psychology, Development | Rehabilitation",NA,SPRINGER/PLENUM PUBLISHERS,NA
 journal of developmental origins of health and disease,2040-1744,2040-1752,NA,0,0,1,0,"Public, Environmental & Occupational Health",NA,NA,CAMBRIDGE UNIV PRESS,NA
 journal of dharma,0253-7222,NA,NA,1,0,0,0,NA,NA,Religion,DHARMARAM COLLEGE,NA
-journal of diabetes,1753-0393,1753-0407,JournalDiabetes,0,0,1,1,Endocrinology & Metabolism,NA,NA,WILEY,2018-05-31
+journal of diabetes,1753-0393,1753-0407,NA,0,0,1,1,Endocrinology & Metabolism,NA,NA,WILEY,2018-05-31
 journal of diabetes and its complications,1056-8727,1873-460X,NA,0,0,1,0,Endocrinology & Metabolism,NA,NA,ELSEVIER SCIENCE INC,NA
 journal of diabetes investigation,2040-1116,2040-1124,NA,0,0,1,0,Endocrinology & Metabolism,NA,NA,WILEY,NA
 journal of diabetes research,2314-6745,2314-6753,NA,0,0,1,0,"Endocrinology & Metabolism | Medicine, Research & Experimental",NA,NA,HINDAWI LTD,NA
@@ -8019,7 +8019,7 @@ journal of endodontics,0099-2399,1878-3554,NA,0,0,1,0,"Dentistry, Oral Surgery &
 journal of endourology,0892-7790,1557-900X,JEndourology,0,0,1,1,Urology & Nephrology,NA,NA,"MARY ANN LIEBERT, INC",2013-08-06
 journal of endovascular therapy,1526-6028,1545-1550,NA,0,0,1,0,Surgery | Peripheral Vascular Diseases,NA,NA,SAGE PUBLICATIONS INC,NA
 journal of energetic materials,0737-0652,1545-8822,NA,0,0,1,0,"Chemistry, Applied | Chemistry, Physical | Engineering, Chemical | Materials Science, Multidisciplinary",NA,NA,TAYLOR & FRANCIS INC,NA
-journal of energy chemistry,2095-4956,2095-4956,JEnergyChem1,0,0,1,1,"Chemistry, Applied | Chemistry, Physical | Energy & Fuels | Engineering, Chemical",NA,NA,ELSEVIER,2022-01-10
+journal of energy chemistry,2095-4956,2095-4956,NA,0,0,1,1,"Chemistry, Applied | Chemistry, Physical | Energy & Fuels | Engineering, Chemical",NA,NA,ELSEVIER,2022-01-10
 journal of energy engineering,0733-9402,1943-7897,NA,0,0,1,0,"Energy & Fuels | Engineering, Civil",NA,NA,ASCE-AMER SOC CIVIL ENGINEERS,NA
 journal of energy in southern africa,1021-447X,2413-3051,JournalEnergySA,0,0,1,1,Energy & Fuels,NA,NA,"UNIV CAPE TOWN, ENERGY RES CENTRE",2018-10-12
 journal of energy resources technology-transactions of the asme,0195-0738,1528-8994,NA,0,0,1,0,Energy & Fuels,NA,NA,ASME,NA
@@ -8139,7 +8139,7 @@ journal of family psychology,0893-3200,1939-1293,NA,0,1,0,0,NA,"Psychology, Clin
 journal of family studies,1322-9400,1839-3543,JFamStudies,0,1,0,1,NA,Family Studies,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",2015-11-17
 journal of family theory & review,1756-2570,1756-2589,JFTR_NCFR,0,1,0,1,NA,Family Studies,NA,WILEY,2015-09-03
 journal of family therapy,0163-4445,1467-6427,NA,0,1,0,0,NA,"Psychology, Clinical | Family Studies",NA,WILEY,NA
-journal of family violence,0885-7482,1573-2851,journal of family violence,0,1,0,1,NA,"Psychology, Clinical | Family Studies",NA,SPRINGER/PLENUM PUBLISHERS,2018-08-26
+journal of family violence,0885-7482,1573-2851,JOFVTweets,0,1,0,1,NA,"Psychology, Clinical | Family Studies",NA,SPRINGER/PLENUM PUBLISHERS,2018-08-26
 journal of fashion marketing and management,1361-2026,1758-7433,NA,0,1,0,0,NA,Business | Management,NA,EMERALD GROUP PUBLISHING LTD,NA
 journal of feline medicine and surgery,1098-612X,1532-2750,NA,0,0,1,0,Veterinary Sciences,NA,NA,SAGE PUBLICATIONS LTD,NA
 journal of feminist studies in religion,8755-4178,1553-3913,NA,1,0,0,0,NA,NA,Religion,INDIANA UNIV PRESS,NA
@@ -8217,7 +8217,7 @@ journal of futures markets,0270-7314,1096-9934,NA,0,1,0,0,NA,"Business, Finance"
 journal of gambling studies,1050-5350,1573-3602,NA,0,1,0,0,NA,"Substance Abuse | Psychology, Multidisciplinary",NA,SPRINGER,NA
 journal of gastric cancer,2093-582X,2093-5641,NA,0,0,1,0,Oncology | Gastroenterology & Hepatology,NA,NA,KOREAN GASTRIC CANCER ASSOC,NA
 journal of gastroenterology,0944-1174,1435-5922,NA,0,0,1,0,Gastroenterology & Hepatology,NA,NA,SPRINGER JAPAN KK,NA
-journal of gastroenterology and hepatology,0815-9319,1440-1746,JGH_latest,0,0,1,1,Gastroenterology & Hepatology,NA,NA,WILEY,2018-08-10
+journal of gastroenterology and hepatology,0815-9319,1440-1746,JGHofficial,0,0,1,1,Gastroenterology & Hepatology,NA,NA,WILEY,2018-08-10
 journal of gastrointestinal and liver diseases,1841-8724,1842-1121,NA,0,0,1,0,Gastroenterology & Hepatology,NA,NA,MEDICAL UNIV PRESS,NA
 journal of gastrointestinal oncology,2078-6891,2219-679X,NA,0,0,1,0,Oncology | Gastroenterology & Hepatology,NA,NA,AME PUBL CO,NA
 journal of gastrointestinal surgery,1091-255X,1873-4626,JournalofGISurg,0,0,1,1,Gastroenterology & Hepatology | Surgery,NA,NA,SPRINGER,2017-01-31
@@ -8320,7 +8320,7 @@ journal of hepatocellular carcinoma,2253-5969,2253-5969,NA,0,0,1,0,Oncology,NA,N
 journal of hepatology,0168-8278,1600-0641,JHepatology,0,0,1,1,Gastroenterology & Hepatology,NA,NA,ELSEVIER,2012-10-05
 journal of herbal medicine,2210-8033,2210-8041,JHerbMed,0,0,1,1,Integrative & Complementary Medicine,NA,NA,ELSEVIER GMBH,2019-11-16
 journal of heredity,0022-1503,1465-7333,NA,0,0,1,0,Evolutionary Biology | Genetics & Heredity,NA,NA,OXFORD UNIV PRESS INC,NA
-journal of herpetology,0022-1511,1937-2418,JofHerp,0,0,1,1,Zoology,NA,NA,SOC STUDY AMPHIBIANS REPTILES,2015-03-16
+journal of herpetology,0022-1511,1937-2418,NA,0,0,1,1,Zoology,NA,NA,SOC STUDY AMPHIBIANS REPTILES,2015-03-16
 journal of heterocyclic chemistry,0022-152X,1943-5193,NA,0,0,1,0,"Chemistry, Organic",NA,NA,WILEY,NA
 journal of heuristics,1381-1231,1572-9397,NA,0,0,1,0,"Computer Science, Artificial Intelligence | Computer Science, Theory & Methods",NA,NA,SPRINGER,NA
 journal of high energy astrophysics,2214-4048,2214-4056,NA,0,0,1,0,Astronomy & Astrophysics,NA,NA,ELSEVIER,NA
@@ -10496,7 +10496,7 @@ medicinal chemistry,1573-4064,1875-6638,NA,0,0,1,0,"Chemistry, Medicinal",NA,NA,
 medicinal chemistry research,1054-2523,1554-8120,MedChemRes,0,0,1,1,"Chemistry, Medicinal",NA,NA,SPRINGER BIRKHAUSER,2021-03-03
 medicinal research reviews,0198-6325,1098-1128,NA,0,0,1,0,"Chemistry, Medicinal | Pharmacology & Pharmacy",NA,NA,WILEY,NA
 medicine,0025-7974,1536-5964,NA,0,0,1,0,"Medicine, General & Internal",NA,NA,LIPPINCOTT WILLIAMS & WILKINS,NA
-medicine & science in sports & exercise,0195-9131,1530-0315,mediterranean botany,0,0,1,1,Sport Sciences,NA,NA,LIPPINCOTT WILLIAMS & WILKINS,2018-08-26
+medicine & science in sports & exercise,0195-9131,1530-0315,MSSEonline,0,0,1,1,Sport Sciences,NA,NA,LIPPINCOTT WILLIAMS & WILKINS,2018-08-26
 medicine health care and philosophy,1386-7423,1572-8633,NA,1,1,0,0,NA,History & Philosophy Of Science | Ethics,History & Philosophy Of Science,SPRINGER,NA
 medicine health care and philosophy,1386-7423,1572-8633,NA,1,1,0,0,NA,History & Philosophy Of Science | Ethics,History & Philosophy Of Science,SPRINGER,NA
 medicine science and the law,0025-8024,2042-1818,NA,0,1,1,0,"Medicine, Legal",Law,NA,SAGE PUBLICATIONS INC,NA
@@ -10973,7 +10973,7 @@ nature climate change,1758-678X,1758-6798,NatureClimate,0,1,1,1,Environmental Sc
 nature climate change,1758-678X,1758-6798,NatureClimate,0,1,1,1,Environmental Sciences | Meteorology & Atmospheric Sciences,Environmental Studies,NA,"NATURE PORTFOLIO",2010-07-07
 nature communications,2041-1723,2041-1723,NatureComms,0,0,1,1,Multidisciplinary Sciences,NA,NA,"NATURE PORTFOLIO",2010-10-22
 nature conservation-bulgaria,1314-6947,1314-3301,naturecons,0,0,1,1,Biodiversity Conservation,NA,NA,PENSOFT PUBLISHERS,2011-04-09
-nature ecology & evolution,2397-334X,2397-334X,nature electronics,0,0,1,1,Ecology | Evolutionary Biology,NA,NA,"NATURE PORTFOLIO",2018-08-26
+nature ecology & evolution,2397-334X,2397-334X,NatureEcoEvo,0,0,1,1,Ecology | Evolutionary Biology,NA,NA,"NATURE PORTFOLIO",2018-08-26
 nature electronics,2520-1131,2520-1131,NatureElectron,0,0,1,1,"Engineering, Electrical & Electronic",NA,NA,"NATURE PORTFOLIO",2017-03-13
 nature energy,2058-7546,2058-7546,NatureEnergyJnl,0,0,1,1,"Energy & Fuels | Materials Science, Multidisciplinary",NA,NA,"NATURE PORTFOLIO",2015-04-07
 nature genetics,1061-4036,1546-1718,NatureGenet,0,0,1,1,Genetics & Heredity,NA,NA,"NATURE PORTFOLIO",2015-01-15
@@ -12592,7 +12592,7 @@ quaestio rossica,2311-911X,2313-6871,NA,1,0,0,0,NA,NA,"Humanities, Multidiscipli
 quaestiones mathematicae,1607-3606,1727-933X,NA,0,0,1,0,Mathematics,NA,NA,TAYLOR & FRANCIS LTD,NA
 qualitative health research,1049-7323,1552-7557,NA,0,1,0,0,NA,"Information Science & Library Science | Social Sciences, Interdisciplinary | Social Sciences, Biomedical",NA,SAGE PUBLICATIONS INC,NA
 qualitative inquiry,1077-8004,1552-7565,NA,0,1,0,0,NA,"Social Sciences, Interdisciplinary",NA,SAGE PUBLICATIONS INC,NA
-qualitative research,1468-7941,1741-3109,qrjcardiff,0,1,0,1,NA,"Social Sciences, Interdisciplinary | Sociology",NA,SAGE PUBLICATIONS LTD,2014-10-20
+qualitative research,1468-7941,1741-3109,NA,0,1,0,1,NA,"Social Sciences, Interdisciplinary | Sociology",NA,SAGE PUBLICATIONS LTD,2014-10-20
 qualitative research in accounting and management,1176-6093,1758-7654,NA,0,1,0,0,NA,"Business, Finance | Management",NA,EMERALD GROUP PUBLISHING LTD,NA
 qualitative research in psychology,1478-0887,1478-0895,NA,0,1,0,0,NA,"Psychology, Multidisciplinary",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 qualitative research in sport exercise and health,2159-676X,2159-6778,NA,0,1,1,0,Sport Sciences,"Hospitality, Leisure, Sport & Tourism | Psychology, Applied",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
@@ -12743,7 +12743,7 @@ rehabilitation psychology,0090-5550,1939-1544,NA,0,1,0,0,NA,"Psychology, Clinica
 rejuvenation research,1549-1684,1557-8577,NA,0,0,1,0,Geriatrics & Gerontology,NA,NA,"MARY ANN LIEBERT, INC",NA
 relations industrielles-industrial relations,0034-379X,1703-8138,RIIRUL,0,1,0,1,NA,Industrial Relations & Labor,NA,REVUE RELATIONS INDUSTRIELLES INDUSTRIAL RELATIONS,2021-02-25
 relc journal,0033-6882,1745-526X,NA,0,1,0,0,NA,Linguistics,NA,SAGE PUBLICATIONS LTD,NA
-reliability engineering & system safety,0951-8320,1879-0836,RESS_Elsevier,0,0,1,1,"Engineering, Industrial | Operations Research & Management Science",NA,NA,ELSEVIER SCI LTD,2022-04-07
+reliability engineering & system safety,0951-8320,1879-0836,RESS_journal,0,0,1,1,"Engineering, Industrial | Operations Research & Management Science",NA,NA,ELSEVIER SCI LTD,2022-04-07
 religion,0048-721X,1096-1151,Religion1971,1,0,0,1,NA,NA,Religion,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",2018-04-06
 religion & literature,0888-3769,2328-6911,ReligionandLit,1,0,0,1,NA,NA,Religion | Literature,UNIV NOTRE DAME,2017-10-05
 religion and american culture-a journal of interpretation,1052-1151,1533-8568,NA,1,0,0,0,NA,NA,Religion | History,CAMBRIDGE UNIV PRESS,NA
@@ -12879,7 +12879,7 @@ review of environmental economics and policy,1750-6816,1750-6824,NA,0,1,0,0,NA,E
 review of european comparative & international environmental law,2050-0386,2050-0394,recieljournal,0,1,0,1,NA,Environmental Studies | Law,NA,WILEY,2013-11-12
 review of faith & international affairs,1557-0274,1931-7743,NA,1,0,0,0,NA,NA,Religion,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 review of finance,1572-3097,1573-692X,NA,0,1,0,0,NA,"Business, Finance | Economics",NA,OXFORD UNIV PRESS,NA
-review of financial studies,0893-9454,1465-7368,RevOfFinStudies,0,1,0,1,NA,"Business, Finance | Economics",NA,OXFORD UNIV PRESS INC,2019-05-09
+review of financial studies,0893-9454,1465-7368,NA,0,1,0,1,NA,"Business, Finance | Economics",NA,OXFORD UNIV PRESS INC,2019-05-09
 review of general psychology,1089-2680,1939-1552,NA,0,1,0,0,NA,"Psychology, Multidisciplinary",NA,SAGE PUBLICATIONS INC,NA
 review of higher education,0162-5748,1090-7009,RHE_ASHE,0,1,0,1,NA,Education & Educational Research,NA,JOHNS HOPKINS UNIV PRESS,2019-11-26
 review of income and wealth,0034-6586,1475-4991,ROIWeditors,0,1,0,1,NA,Economics,NA,WILEY,2021-07-15
@@ -13637,7 +13637,7 @@ sociological forum,0884-8971,1573-7861,soc_forum,0,1,0,1,NA,Sociology,NA,WILEY,2
 sociological inquiry,0038-0245,1475-682X,socioinquiry,0,1,0,1,NA,Sociology,NA,WILEY,2019-01-28
 sociological methodology,0081-1750,1467-9531,socmethod,0,1,0,1,NA,Sociology,NA,SAGE PUBLICATIONS INC,2019-07-09
 sociological methods & research,0049-1241,1552-8294,NA,0,1,0,0,NA,"Social Sciences, Mathematical Methods | Sociology",NA,SAGE PUBLICATIONS INC,NA
-sociological perspectives,0731-1214,1533-8673,soc_persp_pdx,0,1,0,1,NA,Sociology,NA,SAGE PUBLICATIONS INC,NA
+sociological perspectives,0731-1214,1533-8673,SOPJournal,0,1,0,1,NA,Sociology,NA,SAGE PUBLICATIONS INC,NA
 sociological quarterly,0038-0253,1533-8525,socquarterly,0,1,0,1,NA,Sociology,NA,TAYLOR & FRANCIS INC,2019-11-22
 sociological research online,1360-7804,1360-7804,socresonline,0,1,0,1,NA,Sociology,NA,SAGE PUBLICATIONS LTD,2012-09-21
 sociological review,0038-0261,1467-954X,thesocreview,0,1,0,1,NA,Sociology,NA,SAGE PUBLICATIONS LTD,2013-10-02
@@ -14128,7 +14128,7 @@ tempo,0040-2982,1478-2286,NA,1,0,0,0,NA,NA,Music,CAMBRIDGE UNIV PRESS,NA
 tempo-niteroi,1413-7704,1980-542X,NA,1,0,0,0,NA,NA,History,"UNIV FED FLUMINENSE, DEPT HISTORIA",NA
 tempo social,0103-2070,1809-4554,temposocialusp,0,1,0,1,NA,Sociology,NA,"UNIV SAO PAOLO, DEPT SOCIOLOGIA",NA
 tenside surfactants detergents,0932-3414,2195-8564,NA,0,0,1,0,"Chemistry, Applied | Chemistry, Physical | Engineering, Chemical",NA,NA,WALTER DE GRUYTER GMBH,NA
-teologia y vida,0049-3449,0717-6295,teologia_y_vida,1,0,0,1,NA,NA,Religion,"PONTIFICIA UNIV CATOLICA CHILE, FACULTAD TEOLOGIA",2020-05-21
+teologia y vida,0049-3449,0717-6295,NA,1,0,0,1,NA,NA,Religion,"PONTIFICIA UNIV CATOLICA CHILE, FACULTAD TEOLOGIA",2020-05-21
 teorema,0210-1602,NA,JournalTeorema,1,0,0,1,NA,NA,Philosophy,KRK EDICIONES,2022-03-31
 teoria-rivista di filosofia,1122-1259,NA,NA,1,0,0,0,NA,NA,Philosophy,EDIZIONI ETS,NA
 terapevticheskii arkhiv,0040-3660,2309-5342,NA,0,0,1,0,"Medicine, General & Internal",NA,NA,CJSC CONSILIUM MEDICUM,NA
@@ -14503,12 +14503,12 @@ turkish journal of geriatrics-turk geriatri dergisi,1304-2947,1307-9948,NA,0,1,1
 turkish journal of geriatrics-turk geriatri dergisi,1304-2947,1307-9948,NA,0,1,1,0,Geriatrics & Gerontology,Gerontology,NA,GUNES KITABEVI LTD STI,NA
 turkish journal of hematology,1300-7777,1308-5263,NA,0,0,1,0,Hematology,NA,NA,GALENOS YAYINCILIK,NA
 turkish journal of mathematics,1300-0098,1303-6149,NA,0,0,1,0,Mathematics,NA,NA,SCIENTIFIC TECHNICAL RESEARCH COUNCIL TURKEY-TUBITAK,NA
-turkish journal of medical sciences,1300-0144,1303-6165,TurkJMedSci,0,0,1,1,"Medicine, General & Internal",NA,NA,TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY,NA
+turkish journal of medical sciences,1300-0144,1303-6165,NA,0,0,1,1,"Medicine, General & Internal",NA,NA,TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY,NA
 turkish journal of pediatrics,0041-4301,0041-4301,NA,0,0,1,0,Pediatrics,NA,NA,TURKISH J PEDIATRICS,NA
 turkish journal of physical medicine and rehabilitation,2587-0823,2587-1250,NA,0,0,1,0,Rehabilitation,NA,NA,BAYCINAR MEDICAL PUBL-BAYCINAR TIBBI YAYINCILIK,NA
 turkish journal of veterinary & animal sciences,1300-0128,1300-0128,NA,0,0,1,0,Veterinary Sciences,NA,NA,SCIENTIFIC TECHNICAL RESEARCH COUNCIL TURKEY-TUBITAK,NA
 turkish journal of zoology,1300-0179,1303-6114,NA,0,0,1,0,Zoology,NA,NA,TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY,NA
-turkish neurosurgery,1019-5149,1019-5149,turkneurosurger,0,0,1,1,Clinical Neurology | Surgery,NA,NA,TURKISH NEUROSURGICAL SOC,NA
+turkish neurosurgery,1019-5149,1019-5149,NA,0,0,1,1,Clinical Neurology | Surgery,NA,NA,TURKISH NEUROSURGICAL SOC,NA
 turkish studies,1468-3849,1743-9663,NA,0,1,0,0,NA,Area Studies,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 turkiye entomoloji dergisi-turkish journal of entomology,1010-6960,NA,NA,0,0,1,0,Entomology,NA,NA,"ENTOMOLOGICAL SOC TURKEY, EGE UNIV",NA
 twentieth-century music,1478-5722,1478-5730,NA,1,0,0,0,NA,NA,Music,CAMBRIDGE UNIV PRESS,NA
