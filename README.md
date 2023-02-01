@@ -6,4 +6,4 @@ The data were collected in the first quarter of 2022.
 
 The dataset is available under a Creative Commons-license (CC0).
 
-For methodical details, summary statistics and more information, see [this preprint at *SocArXiv*](https://doi.org/10.31235/osf.io/tzr7v).
+For methodical details, summary statistics and more information, see [this paper published in *Insights*](http://doi.org/10.1629/uksg.593).
