@@ -3283,7 +3283,7 @@ contemporary literature,0010-7484,1548-9949,C_L_Journal,1,0,0,1,NA,NA,Literature
 contemporary music review,0749-4467,1477-2256,NA,1,0,0,0,NA,NA,Music,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 contemporary nurse,1037-6178,1839-3535,AdvContNurs,0,1,1,1,Nursing,Nursing,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",11/5/2010
 contemporary nurse,1037-6178,1839-3535,AdvContNurs,0,1,1,1,Nursing,Nursing,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",11/5/2010
-contemporary pacific,1043-898X,1527-9464,NA,0,1,0,0,NA,Area Studies,NA,UNIV HAWAII PRESS,NA
+contemporary pacific,1043-898X,1527-9464,TCP_Journal,0,1,0,1,NA,Area Studies,NA,UNIV HAWAII PRESS,NA
 contemporary physics,0010-7514,1366-5812,NA,0,0,1,0,"Physics, Multidisciplinary",NA,NA,TAYLOR & FRANCIS LTD,NA
 contemporary political theory,1470-8914,1476-9336,NA,0,1,0,0,NA,Political Science,NA,PALGRAVE MACMILLAN LTD,NA
 contemporary politics,1356-9775,1469-3631,NA,0,1,0,0,NA,Political Science,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
@@ -9102,7 +9102,7 @@ journal of popular culture,0022-3840,1540-5931,NA,1,1,0,0,NA,Cultural Studies,"C
 journal of popular culture,0022-3840,1540-5931,NA,1,1,0,0,NA,Cultural Studies,"Cultural Studies | Humanities, Multidisciplinary",WILEY,NA
 journal of popular film and television,0195-6051,1930-6458,NA,1,0,0,0,NA,NA,"Film, Radio, Television","ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 journal of popular music studies,1524-2226,1533-1598,JPMS_Pop,1,0,0,1,NA,NA,Music,UNIV CALIFORNIA PRESS,7/2/2018
-journal of population economics,0933-1433,1432-1475,NA,0,1,0,0,NA,Demography | Economics,NA,SPRINGER,NA
+journal of population economics,0933-1433,1432-1475,JPopEcon,0,1,0,1,NA,Demography | Economics,NA,SPRINGER,NA
 journal of porous materials,1380-2224,1573-4854,NA,0,0,1,0,"Chemistry, Applied | Chemistry, Physical | Materials Science, Multidisciplinary",NA,NA,SPRINGER,NA
 journal of porous media,1091-028X,1934-0508,NA,0,0,1,0,"Thermodynamics | Engineering, Mechanical | Mechanics",NA,NA,BEGELL HOUSE INC,NA
 journal of porphyrins and phthalocyanines,1088-4246,1099-1409,NA,0,0,1,0,"Chemistry, Multidisciplinary",NA,NA,WORLD SCIENTIFIC PUBL CO PTE LTD,NA
@@ -9454,8 +9454,8 @@ journal of the american college of nutrition,0731-5724,1541-1087,NA,0,0,1,0,Nutr
 journal of the american college of radiology,1546-1440,1558-349X,JACRJournal,0,0,1,1,"Radiology, Nuclear Medicine & Medical Imaging",NA,NA,ELSEVIER SCIENCE INC,4/15/2014
 journal of the american college of surgeons,1072-7515,1879-1190,acsJACS,0,0,1,1,Surgery,NA,NA,ELSEVIER SCIENCE INC,4/24/2013
 journal of the american dental association,0002-8177,1943-4723,NA,0,0,1,0,"Dentistry, Oral Surgery & Medicine",NA,NA,AMER DENTAL ASSOC,NA
-journal of the american geriatrics society,0002-8614,1532-5415,NA,0,1,1,0,Geriatrics & Gerontology,Gerontology,NA,WILEY,NA
-journal of the american geriatrics society,0002-8614,1532-5415,NA,0,1,1,0,Geriatrics & Gerontology,Gerontology,NA,WILEY,NA
+journal of the american geriatrics society,0002-8614,1532-5415,AGSJournal,0,1,1,1,Geriatrics & Gerontology,Gerontology,NA,WILEY,NA
+journal of the american geriatrics society,0002-8614,1532-5415,AGSJournal,0,1,1,1,Geriatrics & Gerontology,Gerontology,NA,WILEY,NA
 journal of the american heart association,2047-9980,2047-9980,JAHA_AHA,0,0,1,1,Cardiac & Cardiovascular System,NA,NA,WILEY,9/26/2012
 journal of the american helicopter society,0002-8711,2161-6027,NA,0,0,1,0,"Engineering, Aerospace",NA,NA,AMER HELICOPTER SOC INC,NA
 journal of the american institute for conservation,0197-1360,1945-2330,NA,1,0,0,0,NA,NA,"Humanities, Multidisciplinary","ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
@@ -12118,7 +12118,7 @@ policing-an international journal of police strategies & management,1363-951X,17
 policing & society,1043-9463,1477-2728,NA,0,1,0,0,NA,Criminology & Penology,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 policy and internet,1944-2866,1944-2866,policyinternet,0,1,0,1,NA,Communication | Political Science,NA,WILEY,11/1/2013
 policy and politics,0305-5736,1470-8442,NA,0,1,0,0,NA,Political Science | Public Administration,NA,POLICY PRESS,NA
-policy and society,1449-4035,1839-3373,NA,0,1,0,0,NA,Political Science | Public Administration,NA,TAYLOR & FRANCIS LTD,NA
+policy and society,1449-4035,1839-3373,PolicySociety,0,1,0,1,NA,Political Science | Public Administration,NA,TAYLOR & FRANCIS LTD,NA
 policy sciences,0032-2687,1573-0891,NA,0,1,0,0,NA,"Public Administration | Social Sciences, Interdisciplinary",NA,SPRINGER,NA
 policy studies,0144-2872,1470-1006,PolicyStudiesTF,0,1,0,1,NA,Public Administration,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",5/28/2015
 policy studies journal,0190-292X,1541-0072,psj_editor,0,1,0,1,NA,Political Science | Public Administration,NA,WILEY,9/16/2015
@@ -12871,7 +12871,7 @@ review of development economics,1363-6669,1467-9361,NA,0,1,0,0,NA,Development St
 review of economic design,1434-4742,1434-4750,NA,0,1,0,0,NA,Economics,NA,SPRINGER HEIDELBERG,NA
 review of economic dynamics,1094-2025,1096-6099,RevEconDyn,0,1,0,1,NA,Economics,NA,ACADEMIC PRESS INC ELSEVIER SCIENCE,7/23/2020
 review of economic studies,0034-6527,1467-937X,RevEconStudies,0,1,0,1,NA,Economics,NA,OXFORD UNIV PRESS,1/1/2022
-review of economics and statistics,0034-6535,1530-9142,NA,0,1,0,0,NA,"Economics | Social Sciences, Mathematical Methods",NA,MIT PRESS,NA
+review of economics and statistics,0034-6535,1530-9142,restatjournal,0,1,0,1,NA,"Economics | Social Sciences, Mathematical Methods",NA,MIT PRESS,NA
 review of economics of the household,1569-5239,1573-7152,NA,0,1,0,0,NA,Economics,NA,SPRINGER,NA
 review of educational research,0034-6543,1935-1046,NA,0,1,0,0,NA,Education & Educational Research,NA,SAGE PUBLICATIONS INC,NA
 review of english studies,0034-6551,1471-6968,NA,1,0,0,0,NA,NA,Literature,OXFORD UNIV PRESS,NA
@@ -14975,9 +14975,10 @@ zoology in the middle east,0939-7140,2326-2680,NA,0,0,1,0,Zoology,NA,NA,TAYLOR &
 zoomorphology,0720-213X,1432-234X,NA,0,0,1,0,Anatomy & Morphology | Zoology,NA,NA,SPRINGER,NA
 zoonoses and public health,1863-1959,1863-2378,NA,0,0,1,0,Infectious Diseases | Veterinary Sciences,NA,NA,WILEY,NA
 zoosystema,1280-9551,1638-9387,NA,0,0,1,0,Zoology,NA,NA,"PUBLICATIONS SCIENTIFIQUES DU MUSEUM, PARIS",NA
-zoosystematics and evolution,1860-0743,1860-0743,NA,0,0,1,0,Zoology,NA,NA,PENSOFT PUBLISHERS,NA
+zoosystematics and evolution,1860-0743,1860-0743,Zoosyst_Evo,0,0,1,1,Zoology,NA,NA,PENSOFT PUBLISHERS,NA
 zootaxa,1175-5326,1175-5334,Zootaxa,0,0,1,1,Zoology,NA,NA,MAGNOLIA PRESS,11/1/2009
 zuchtungskunde,0044-5401,1867-4518,NA,0,0,1,0,"Agriculture, Dairy & Animal Science",NA,NA,EUGEN ULMER GMBH CO,NA
 zygon,0591-2385,1467-9744,Zygonjournal,1,1,0,1,NA,Social Issues,Religion,WILEY,6/16/2013
 zygon,0591-2385,1467-9744,Zygonjournal,1,1,0,1,NA,Social Issues,Religion,WILEY,6/16/2013
 zygote,0967-1994,1469-8730,NA,0,0,1,0,Cell Biology | Developmental Biology | Reproductive Biology,NA,NA,CAMBRIDGE UNIV PRESS,NA
+human geography,1942-7786,2633-674X,HGJournal,0,0,0,1,NA,NA,NA,SAGE,
