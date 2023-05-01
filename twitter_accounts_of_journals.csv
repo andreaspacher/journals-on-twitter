@@ -1345,7 +1345,7 @@ archives of psychiatric nursing,0883-9417,1532-8228,NA,0,1,1,0,Nursing | Psychia
 archives of public health,0778-7367,2049-3258,NA,0,1,1,0,"Public, Environmental & Occupational Health","Public, Environmental & Occupational Health",NA,BMC,NA
 archives of public health,0778-7367,2049-3258,NA,0,1,1,0,"Public, Environmental & Occupational Health","Public, Environmental & Occupational Health",NA,BMC,NA
 archives of rheumatology,2148-5046,1309-0283,ArchRheumatol,0,0,1,1,Rheumatology,NA,NA,TURKISH LEAGUE AGAINST RHEUMATISM,12/19/2020
-archives of sexual behavior,0004-0002,1573-2800,NA,0,1,0,0,NA,"Psychology, Clinical | Social Sciences, Interdisciplinary",NA,SPRINGER/PLENUM PUBLISHERS,NA
+archives of sexual behavior,0004-0002,1573-2800,ArchSexBehav,0,1,0,1,NA,"Psychology, Clinical | Social Sciences, Interdisciplinary",NA,SPRINGER/PLENUM PUBLISHERS,NA
 archives of suicide research,1381-1118,1543-6136,NA,0,1,0,0,NA,"Psychiatry | Psychology, Multidisciplinary",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 archives of toxicology,0340-5761,1432-0738,NA,0,0,1,0,Toxicology,NA,NA,SPRINGER HEIDELBERG,NA
 archives of virology,0304-8608,1432-8798,NA,0,0,1,0,Virology,NA,NA,SPRINGER WIEN,NA
@@ -2167,7 +2167,7 @@ british journal for the history of science,0007-0874,1474-001X,BJHSeditor,1,1,0,
 british journal for the philosophy of science,0007-0882,1464-3537,TheBJPS,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,UNIV CHICAGO PRESS,3/21/2012
 british journal for the philosophy of science,0007-0882,1464-3537,TheBJPS,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,UNIV CHICAGO PRESS,3/21/2012
 british journal for the philosophy of science,0007-0882,1464-3537,TheBJPS,1,1,1,1,History & Philosophy Of Science,History & Philosophy Of Science,History & Philosophy Of Science,UNIV CHICAGO PRESS,3/21/2012
-british journal of aesthetics,0007-0904,1468-2842,BJAtweets,1,0,0,1,NA,NA,Philosophy | Art,OXFORD UNIV PRESS,1/10/2020
+british journal of aesthetics,0007-0904,1468-2842,BritJAesth,1,0,0,1,NA,NA,Philosophy | Art,OXFORD UNIV PRESS,1/10/2020
 british journal of anaesthesia,0007-0912,1471-6771,BJAJournals,0,0,1,1,Anesthesiology,NA,NA,ELSEVIER SCI LTD,6/27/2015
 british journal of biomedical science,0967-4845,NA,NA,0,0,1,0,Medical Laboratory Technology,NA,NA,TAYLOR & FRANCIS LTD,NA
 british journal of canadian studies,0269-9222,1757-8078,NA,1,0,0,0,NA,NA,"Humanities, Multidisciplinary",LIVERPOOL UNIV PRESS,NA
@@ -6294,8 +6294,8 @@ inorganic chemistry frontiers,2052-1553,2052-1553,NA,0,0,1,0,"Chemistry, Inorgan
 inorganic materials,0020-1685,1608-3172,NA,0,0,1,0,"Materials Science, Multidisciplinary",NA,NA,MAIK NAUKA/INTERPERIODICA/SPRINGER,NA
 inorganica chimica acta,0020-1693,1873-3255,NA,0,0,1,0,"Chemistry, Inorganic & Nuclear",NA,NA,ELSEVIER SCIENCE SA,NA
 inorganics,2304-6740,2304-6740,inorganics_MDPI,0,0,1,1,"Chemistry, Inorganic & Nuclear",NA,NA,MDPI,1/29/2016
-inquiry-an interdisciplinary journal of philosophy,0020-174X,1502-3923,NA,1,1,0,0,NA,Ethics,Philosophy,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
-inquiry-an interdisciplinary journal of philosophy,0020-174X,1502-3923,NA,1,1,0,0,NA,Ethics,Philosophy,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
+inquiry-an interdisciplinary journal of philosophy,0020-174X,1502-3923,inquiry_ijp,1,1,0,1,NA,Ethics,Philosophy,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
+inquiry-an interdisciplinary journal of philosophy,0020-174X,1502-3923,inquiry_ijp,1,1,0,1,NA,Ethics,Philosophy,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 inquiry-the journal of health care organization provision and financing,0046-9580,1945-7243,NA,0,1,1,0,Health Care Sciences & Services,Health Policy & Services,NA,SAGE PUBLICATIONS INC,NA
 inquiry-the journal of health care organization provision and financing,0046-9580,1945-7243,NA,0,1,1,0,Health Care Sciences & Services,Health Policy & Services,NA,SAGE PUBLICATIONS INC,NA
 inra productions animales,2273-774X,2273-7766,NA,0,0,1,0,"Agriculture, Dairy & Animal Science | Veterinary Sciences",NA,NA,INST NATL RECHERCHE AGRONOMIQUE,NA
@@ -9542,9 +9542,9 @@ journal of the history of collections,0954-6650,1477-8564,NA,1,0,0,0,NA,NA,"Huma
 journal of the history of economic thought,1053-8372,1469-9656,jhet_journal,1,1,0,1,NA,History | History Of Social Sciences,History,CAMBRIDGE UNIV PRESS,1/7/2019
 journal of the history of economic thought,1053-8372,1469-9656,jhet_journal,1,1,0,1,NA,History | History Of Social Sciences,History,CAMBRIDGE UNIV PRESS,1/7/2019
 journal of the history of ideas,0022-5037,1086-3222,NA,1,0,0,0,NA,NA,Philosophy,UNIV PENNSYLVANIA PRESS,NA
-journal of the history of medicine and allied sciences,0022-5045,1468-4373,NA,1,1,1,0,History & Philosophy Of Science | Health Care Sciences & Services,History & Philosophy Of Science,History & Philosophy Of Science,OXFORD UNIV PRESS INC,NA
-journal of the history of medicine and allied sciences,0022-5045,1468-4373,NA,1,1,1,0,History & Philosophy Of Science | Health Care Sciences & Services,History & Philosophy Of Science,History & Philosophy Of Science,OXFORD UNIV PRESS INC,NA
-journal of the history of medicine and allied sciences,0022-5045,1468-4373,NA,1,1,1,0,History & Philosophy Of Science | Health Care Sciences & Services,History & Philosophy Of Science,History & Philosophy Of Science,OXFORD UNIV PRESS INC,NA
+journal of the history of medicine and allied sciences,0022-5045,1468-4373,JournalHMAS,1,1,1,1,History & Philosophy Of Science | Health Care Sciences & Services,History & Philosophy Of Science,History & Philosophy Of Science,OXFORD UNIV PRESS INC,NA
+journal of the history of medicine and allied sciences,0022-5045,1468-4373,JournalHMAS,1,1,1,1,History & Philosophy Of Science | Health Care Sciences & Services,History & Philosophy Of Science,History & Philosophy Of Science,OXFORD UNIV PRESS INC,NA
+journal of the history of medicine and allied sciences,0022-5045,1468-4373,JournalHMAS,1,1,1,1,History & Philosophy Of Science | Health Care Sciences & Services,History & Philosophy Of Science,History & Philosophy Of Science,OXFORD UNIV PRESS INC,NA
 journal of the history of philosophy,0022-5053,1538-4586,NA,1,0,0,1,NA,NA,Philosophy,JOHNS HOPKINS UNIV PRESS,10/30/2020
 journal of the history of sexuality,1043-4070,1535-3605,JHistSex,1,1,0,1,NA,History | Sociology,History,UNIV TEXAS PRESS,8/5/2021
 journal of the history of sexuality,1043-4070,1535-3605,JHistSex,1,1,0,1,NA,History | Sociology,History,UNIV TEXAS PRESS,8/5/2021
@@ -13549,7 +13549,7 @@ slovo a slovesnost,0037-7031,NA,NA,1,1,0,0,NA,Linguistics,Language & Linguistics
 small,1613-6810,1613-6829,NA,0,0,1,0,"Chemistry, Multidisciplinary | Chemistry, Physical | Nanoscience & Nanotechnology | Materials Science, Multidisciplinary | Physics, Applied | Physics, Condensed Matter",NA,NA,WILEY-V C H VERLAG GMBH,NA
 small-scale forestry,1873-7617,1873-7854,NA,0,0,1,0,Forestry,NA,NA,SPRINGER,NA
 small axe,0799-0537,1534-6714,SmallAxeProject,1,0,0,1,NA,NA,"Humanities, Multidisciplinary",DUKE UNIV PRESS,3/7/2016
-small business economics,0921-898X,1573-0913,NA,0,1,0,0,NA,Business | Economics | Management,NA,SPRINGER,NA
+small business economics,0921-898X,1573-0913,SBEJournal,0,1,0,1,NA,Business | Economics | Management,NA,SPRINGER,NA
 small group research,1046-4964,1552-8278,SGRjournal,0,1,0,1,NA,"Psychology, Applied | Management | Psychology, Social",NA,SAGE PUBLICATIONS INC,1/7/2022
 small methods,2366-9608,2366-9608,NA,0,0,1,0,"Chemistry, Physical | Nanoscience & Nanotechnology | Materials Science, Multidisciplinary",NA,NA,WILEY-V C H VERLAG GMBH,NA
 small ruminant research,0921-4488,1879-0941,NA,0,0,1,0,"Agriculture, Dairy & Animal Science",NA,NA,ELSEVIER,NA
