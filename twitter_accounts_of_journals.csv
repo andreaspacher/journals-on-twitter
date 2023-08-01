@@ -3610,8 +3610,8 @@ custos e agronegocio on line,1808-2882,1808-2882,NA,0,1,1,0,Agricultural Economi
 cutaneous and ocular toxicology,1556-9527,1556-9535,NA,0,0,1,0,Ophthalmology | Toxicology,NA,NA,TAYLOR & FRANCIS LTD,NA
 cutis,0011-4162,2326-6929,CutisJournal,0,0,1,1,Dermatology,NA,NA,QUADRANT HEALTHCOM INC,3/23/2011
 cybernetics and systems,0196-9722,1087-6553,NA,0,0,1,0,"Computer Science, Cybernetics",NA,NA,TAYLOR & FRANCIS INC,NA
-cyberpsychology-journal of psychosocial research on cyberspace,1802-7962,1802-7962,NA,0,1,0,0,NA,"Communication | Psychology, Multidisciplinary",NA,"MASARYKOVA UNIV, FAC SOCIAL STUDIES",12/15/2009
-cyberpsychology behavior and social networking,2152-2715,2152-2723,Cyberpsych_Jn,0,1,0,1,NA,"Psychology, Social",NA,"MARY ANN LIEBERT, INC",NA
+cyberpsychology-journal of psychosocial research on cyberspace,1802-7962,1802-7962,Cyberpsych_Jn,0,1,0,1,NA,"Communication | Psychology, Multidisciplinary",NA,"MASARYKOVA UNIV, FAC SOCIAL STUDIES",12/15/2009
+cyberpsychology behavior and social networking,2152-2715,2152-2723,NA,0,1,0,0,NA,"Psychology, Social",NA,"MARY ANN LIEBERT, INC",NA
 cybium,0399-0974,2101-0315,cybium,0,0,1,1,Zoology,NA,NA,SOC FRANCAISE D ICHTYOLOGIE,10/12/2018
 cyta-journal of food,1947-6337,1947-6345,NA,0,0,1,0,Food Science & Technology,NA,NA,TAYLOR & FRANCIS LTD,NA
 cytogenetic and genome research,1424-8581,1424-859X,NA,0,0,1,0,Cell Biology | Genetics & Heredity,NA,NA,KARGER,NA
@@ -8821,7 +8821,7 @@ journal of neurologic physical therapy,1557-0576,1557-0584,JNPT,0,0,1,1,Clinical
 journal of neurological surgery part a-central european neurosurgery,2193-6315,2193-6323,NA,0,0,1,0,Clinical Neurology | Surgery,NA,NA,THIEME MEDICAL PUBL INC,NA
 journal of neurological surgery part b-skull base,2193-6331,2193-634X,NA,0,0,1,0,Clinical Neurology | Surgery,NA,NA,THIEME MEDICAL PUBL INC,NA
 journal of neurology,0340-5354,1432-1459,NA,0,0,1,0,Clinical Neurology,NA,NA,SPRINGER HEIDELBERG,NA
-journal of neurology neurosurgery and psychiatry,0022-3050,1468-330X,NA,0,0,1,0,Clinical Neurology | Psychiatry | Surgery,NA,NA,BMJ PUBLISHING GROUP,NA
+journal of neurology neurosurgery and psychiatry,0022-3050,1468-330X,JNNP_BMJ,0,0,1,1,Clinical Neurology | Psychiatry | Surgery,NA,NA,BMJ PUBLISHING GROUP,NA
 journal of neuromuscular diseases,2214-3599,2214-3602,journal_nd,0,0,1,1,Clinical Neurology | Neurosciences,NA,NA,IOS PRESS,7/3/2018
 journal of neuropathology and experimental neurology,0022-3069,1554-6578,NA,0,0,1,0,Clinical Neurology | Neurosciences | Pathology,NA,NA,OXFORD UNIV PRESS INC,NA
 journal of neurophysiology,0022-3077,1522-1598,JNeurophysiol,0,0,1,1,Neurosciences | Physiology,NA,NA,AMER PHYSIOLOGICAL SOC,5/23/2014
@@ -9235,7 +9235,7 @@ journal of research on adolescence,1050-8392,1532-7795,NA,0,1,0,0,NA,"Family Stu
 journal of research on educational effectiveness,1934-5747,1934-5739,editors_JREE,0,1,0,1,NA,Education & Educational Research,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",1/3/2020
 journal of research on technology in education,1539-1523,1945-0818,JRTE_Official,0,1,0,1,NA,Education & Educational Research,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",5/2/2019
 journal of responsible innovation,2329-9460,2329-9037,JResInnov,0,1,0,1,NA,Ethics | History & Philosophy Of Science | Management | Social Issues,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",4/6/2018
-journal of retailing,0022-4359,1873-3271,JR_Updates,0,1,0,1,NA,Business,NA,ELSEVIER SCIENCE INC,8/27/2010
+journal of retailing,0022-4359,1873-3271,JRetailing,0,1,0,1,NA,Business,NA,ELSEVIER SCIENCE INC,8/27/2010
 journal of retailing and consumer services,0969-6989,1873-1384,NA,0,1,0,0,NA,Business,NA,ELSEVIER SCI LTD,NA
 journal of rheology,0148-6055,1520-8516,NA,0,0,1,0,Mechanics,NA,NA,SOC RHEOLOGY,NA
 journal of rheumatology,0315-162X,1499-2752,jrheum,0,0,1,1,Rheumatology,NA,NA,J RHEUMATOL PUBL CO,1/31/2011
@@ -10032,7 +10032,7 @@ law and history review,0738-2480,1939-9022,history_law,1,1,0,1,NA,History | Hist
 law and history review,0738-2480,1939-9022,history_law,1,1,0,1,NA,History | History Of Social Sciences | Law,History,CAMBRIDGE UNIV PRESS,10/2/2017
 law and human behavior,0147-7307,1573-661X,lhb_apls,0,1,0,1,NA,"Law | Psychology, Social",NA,EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC,9/25/2020
 law and philosophy,0167-5249,1573-0522,NA,0,1,0,0,NA,Ethics | Law,NA,SPRINGER,NA
-law and social inquiry-journal of the american bar foundation,0897-6546,1747-4469,NA,0,1,0,0,NA,Law,NA,CAMBRIDGE UNIV PRESS,NA
+law and social inquiry-journal of the american bar foundation,0897-6546,1747-4469,LSI_Journal,0,1,0,1,NA,Law,NA,CAMBRIDGE UNIV PRESS,NA
 law library journal,0023-9283,0023-9283,NA,0,1,0,0,NA,Information Science & Library Science | Law,NA,AMER ASSOC LAW LIBRARIES,NA
 law probability & risk,1470-8396,1470-840X,NA,0,1,1,0,Mathematics | Statistics & Probability,"Law | Social Sciences, Mathematical Methods",NA,OXFORD UNIV PRESS,NA
 law probability & risk,1470-8396,1470-840X,NA,0,1,1,0,Mathematics | Statistics & Probability,"Law | Social Sciences, Mathematical Methods",NA,OXFORD UNIV PRESS,NA
@@ -14139,7 +14139,7 @@ terra nova,0954-4879,1365-3121,NA,0,0,1,0,"Geosciences, Multidisciplinary",NA,NA
 terrestrial atmospheric and oceanic sciences,1017-0839,2311-7680,NA,0,0,1,0,"Geosciences, Multidisciplinary | Meteorology & Atmospheric Sciences | Oceanography",NA,NA,CHINESE GEOSCIENCE UNION,NA
 territory politics governance,2162-2671,2162-268X,NA,0,1,0,0,NA,Geography | Political Science,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 terrorism and political violence,0954-6553,1556-1836,terpolv,0,1,0,1,NA,International Relations | Political Science,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",11/28/2013
-tesol quarterly,0039-8322,1545-7249,NA,0,1,0,0,NA,Education & Educational Research | Linguistics,NA,WILEY,NA
+tesol quarterly,0039-8322,1545-7249,TESOL_Quarterly,0,1,0,1,NA,Education & Educational Research | Linguistics,NA,WILEY,NA
 test,1133-0686,1863-8260,NA,0,0,1,0,Statistics & Probability,NA,NA,SPRINGER,NA
 tetrahedron,0040-4020,1464-5416,NA,0,0,1,0,"Chemistry, Organic",NA,NA,PERGAMON-ELSEVIER SCIENCE LTD,NA
 tetrahedron letters,0040-4039,1873-3581,NA,0,0,1,0,"Chemistry, Organic",NA,NA,PERGAMON-ELSEVIER SCIENCE LTD,NA
