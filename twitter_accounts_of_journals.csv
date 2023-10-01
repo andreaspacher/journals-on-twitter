@@ -712,7 +712,7 @@ american journal of physical anthropology,0002-9483,1096-8644,NA,0,1,1,0,Evoluti
 american journal of physical anthropology,0002-9483,1096-8644,NA,0,1,1,0,Evolutionary Biology,Anthropology,NA,WILEY,NA
 american journal of physical medicine & rehabilitation,0894-9115,1537-7385,NA,0,0,1,0,Rehabilitation | Sport Sciences,NA,NA,LIPPINCOTT WILLIAMS & WILKINS,NA
 american journal of physics,0002-9505,1943-2909,JournalPhysics,0,0,1,1,"Education, Scientific Disciplines | Physics, Multidisciplinary",NA,NA,AIP PUBLISHING,9/21/2018
-american journal of physiology-cell physiology,0363-6143,1522-1563,NA,0,0,1,0,Cell Biology | Physiology,NA,NA,AMER PHYSIOLOGICAL SOC,NA
+american journal of physiology-cell physiology,0363-6143,1522-1563,AJPCellPhys,0,0,1,1,Cell Biology | Physiology,NA,NA,AMER PHYSIOLOGICAL SOC,NA
 american journal of physiology-endocrinology and metabolism,0193-1849,1522-1555,AJPEndoMetab,0,0,1,1,Endocrinology & Metabolism | Physiology,NA,NA,AMER PHYSIOLOGICAL SOC,3/7/2017
 american journal of physiology-gastrointestinal and liver physiology,0193-1857,1522-1547,NA,0,0,1,0,Gastroenterology & Hepatology | Physiology,NA,NA,AMER PHYSIOLOGICAL SOC,NA
 american journal of physiology-heart and circulatory physiology,0363-6135,1522-1539,ajpheartcirc,0,0,1,1,Cardiac & Cardiovascular System | Physiology | Peripheral Vascular Diseases,NA,NA,AMER PHYSIOLOGICAL SOC,7/7/2010
@@ -2307,7 +2307,7 @@ business & society,0007-6503,1552-4205,BASeditors,0,1,0,1,NA,Business,NA,SAGE PU
 business and politics,1369-5258,1469-3569,bap_journal,0,1,0,1,NA,Political Science | International Relations,NA,CAMBRIDGE UNIV PRESS,4/29/2011
 business ethics quarterly,1052-150X,2153-3326,BEQJournal,0,1,0,1,NA,Business | Ethics,NA,CAMBRIDGE UNIV PRESS,3/23/2015
 business ethics the environment & responsibility,2694-6416,2694-6424,Beer_Wiley,0,1,0,1,NA,Business | Ethics,NA,WILEY,3/25/2021
-business history,0007-6791,1743-7938,NA,0,1,0,0,NA,Business | History Of Social Sciences,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
+business history,0007-6791,1743-7938,BH__journal,0,1,0,1,NA,Business | History Of Social Sciences,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 business history review,0007-6805,2044-768X,NA,0,1,0,0,NA,Business | History Of Social Sciences,NA,CAMBRIDGE UNIV PRESS,NA
 business horizons,0007-6813,1873-6068,BizHorizons,0,1,0,1,NA,Business,NA,ELSEVIER,9/4/2012
 business process management journal,1463-7154,1758-4116,NA,0,1,0,0,NA,Business | Management,NA,EMERALD GROUP PUBLISHING LTD,NA
@@ -2677,7 +2677,7 @@ chemphotochem,2367-0932,2367-0932,ChemPhotoChem,0,0,1,1,"Chemistry, Physical",NA
 chemphyschem,1439-4235,1439-7641,ChemPhysChem,0,0,1,1,"Chemistry, Physical | Physics, Atomic, Molecular & Chemical",NA,NA,WILEY-V C H VERLAG GMBH,8/17/2012
 chempluschem,2192-6506,2192-6506,ChemPlusChem,0,0,1,1,"Chemistry, Multidisciplinary",NA,NA,WILEY-V C H VERLAG GMBH,11/25/2014
 chemsuschem,1864-5631,1864-564X,ChemSusChem,0,0,1,1,"Chemistry, Multidisciplinary | Green & Sustainable Science & Technology",NA,NA,WILEY-V C H VERLAG GMBH,8/10/2009
-chest,0012-3692,1931-3543,NA,0,0,1,0,Critical Care Medicine | Respiratory System,NA,NA,ELSEVIER,NA
+chest,0012-3692,1931-3543,journal_CHEST,0,0,1,1,Critical Care Medicine | Respiratory System,NA,NA,ELSEVIER,NA
 chiang mai journal of science,0125-2526,0125-2526,NA,0,0,1,0,Multidisciplinary Sciences,NA,NA,"CHIANG MAI UNIV, FAC SCIENCE",NA
 chicago review,0009-3696,2327-5804,chireview,1,0,0,1,NA,NA,Literary Reviews,CHICAGO REVIEW,3/14/2013
 child & family behavior therapy,0731-7107,1545-228X,NA,0,1,0,0,NA,"Psychology, Clinical | Family Studies",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
@@ -2685,8 +2685,8 @@ child & family social work,1356-7500,1365-2206,NA,0,1,0,0,NA,Family Studies | So
 child & youth care forum,1053-1890,1573-3319,NA,0,1,0,0,NA,"Psychology, Development",NA,SPRINGER,NA
 child abuse & neglect,0145-2134,1873-7757,NA,0,1,0,0,NA,"Family Studies | Psychology, Social | Social Work",NA,PERGAMON-ELSEVIER SCIENCE LTD,NA
 child abuse review,0952-9136,1099-0852,Child_Abuse_Rev,0,1,0,1,NA,Family Studies | Social Work,NA,WILEY,4/24/2017
-child and adolescent mental health,1475-357X,1475-3588,NA,0,1,1,0,Pediatrics | Psychiatry,"Psychiatry | Psychology, Clinical",NA,WILEY,NA
-child and adolescent mental health,1475-357X,1475-3588,NA,0,1,1,0,Pediatrics | Psychiatry,"Psychiatry | Psychology, Clinical",NA,WILEY,NA
+child and adolescent mental health,1475-357X,1475-3588,TheCAMH,0,1,1,1,Pediatrics | Psychiatry,"Psychiatry | Psychology, Clinical",NA,WILEY,NA
+child and adolescent mental health,1475-357X,1475-3588,TheCAMH,0,1,1,1,Pediatrics | Psychiatry,"Psychiatry | Psychology, Clinical",NA,WILEY,NA
 child and adolescent psychiatric clinics of north america,1056-4993,1558-0490,NA,0,1,0,0,NA,Psychiatry,NA,W B SAUNDERS CO-ELSEVIER INC,NA
 child and adolescent psychiatry and mental health,1753-2000,1753-2000,NA,0,1,1,0,Pediatrics | Psychiatry,Psychiatry,NA,BMC,NA
 child and adolescent psychiatry and mental health,1753-2000,1753-2000,NA,0,1,1,0,Pediatrics | Psychiatry,Psychiatry,NA,BMC,NA
