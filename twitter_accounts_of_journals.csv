@@ -2779,7 +2779,7 @@ ciencia & saude coletiva,1413-8123,1678-4561,NA,0,1,0,0,NA,"Public, Environmenta
 ciencia e agrotecnologia,1413-7054,1981-1829,NA,0,0,1,0,"Agriculture, Multidisciplinary",NA,NA,UNIV FEDERAL LAVRAS-UFLA,NA
 ciencia e tecnica vitivinicola,2416-3953,2416-3953,NA,0,0,1,0,Food Science & Technology,NA,NA,ESTACAO VITIVINICOLA NACIONAL,NA
 ciencia florestal,0103-9954,1980-5098,NA,0,0,1,0,Forestry,NA,NA,"CENTRO PESQUISAS FLORESTAIS, UFSM",NA
-ciencia rural,0103-8478,1678-4596,CienciaRural,0,0,1,1,Agronomy,NA,NA,UNIV FEDERAL SANTA MARIA,2/7/2014
+ciencia rural,0103-8478,1678-4596,NA,0,0,1,0,Agronomy,NA,NA,UNIV FEDERAL SANTA MARIA,2/7/2014
 ciencias marinas,0185-3880,2395-9053,NA,0,0,1,0,Marine & Freshwater Biology,NA,NA,"INST INVESTIGACIONES OCEANOLOGICAS, U A B C",NA
 cin-computers informatics nursing,1538-2931,1538-9774,CIN_online,0,1,1,1,"Computer Science, Interdisciplinary Applications | Medical Informatics | Nursing",Nursing,NA,LIPPINCOTT WILLIAMS & WILKINS,12/7/2010
 cin-computers informatics nursing,1538-2931,1538-9774,CIN_online,0,1,1,1,"Computer Science, Interdisciplinary Applications | Medical Informatics | Nursing",Nursing,NA,LIPPINCOTT WILLIAMS & WILKINS,12/7/2010
@@ -2872,7 +2872,7 @@ clinical breast cancer,1526-8209,1938-0666,NA,0,0,1,0,Oncology,NA,NA,"CIG MEDIA 
 clinical cancer research,1078-0432,1557-3265,CCR_AACR,0,0,1,1,Oncology,NA,NA,AMER ASSOC CANCER RESEARCH,7/24/2018
 clinical cardiology,0160-9289,1932-8737,NA,0,0,1,0,Cardiac & Cardiovascular System,NA,NA,WILEY,NA
 clinical case studies,1534-6501,1552-3802,NA,0,1,0,0,NA,"Psychology, Clinical | Psychiatry",NA,SAGE PUBLICATIONS INC,NA
-clinical chemistry,0009-9147,1530-8561,Clin_Chem_AACC,0,0,1,1,Medical Laboratory Technology,NA,NA,OXFORD UNIV PRESS INC,11/12/2009
+clinical chemistry,0009-9147,1530-8561,NA,0,0,1,0,Medical Laboratory Technology,NA,NA,OXFORD UNIV PRESS INC,11/12/2009
 clinical chemistry and laboratory medicine,1434-6621,1437-4331,cclm_degruyter,0,0,1,1,Medical Laboratory Technology,NA,NA,WALTER DE GRUYTER GMBH,7/31/2016
 clinical child and family psychology review,1096-4037,1573-2827,NA,0,1,0,0,NA,"Psychology, Clinical",NA,SPRINGER/PLENUM PUBLISHERS,NA
 clinical child psychology and psychiatry,1359-1045,1461-7021,CCPPJournal,0,1,1,1,Psychiatry | Psychology,"Psychiatry | Psychology, Clinical | Psychology, Development",NA,SAGE PUBLICATIONS INC,1/26/2018
@@ -3922,7 +3922,7 @@ early medieval china,1529-9104,1946-7842,medieval_china,1,0,0,1,NA,NA,Asian Stud
 early medieval europe,0963-9462,1468-0254,NA,1,0,0,0,NA,NA,Medieval & Renaissance Studies,WILEY,NA
 early modern french studies,2056-3035,2056-3043,NA,1,0,0,0,NA,NA,"History | Humanities, Multidisciplinary","ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 early modern women-an interdisciplinary journal,1933-0065,1933-0065,NA,1,0,0,0,NA,NA,"Humanities, Multidisciplinary",UNIV CHICAGO PRESS,NA
-early music,0306-1078,1741-7260,EarlyMus,1,0,0,1,NA,NA,Music,OXFORD UNIV PRESS,5/20/2014
+early music,0306-1078,1741-7260,NA,1,0,0,0,NA,NA,Music,OXFORD UNIV PRESS,5/20/2014
 early music history,0261-1279,1474-0559,NA,1,0,0,0,NA,NA,Music,CAMBRIDGE UNIV PRESS,NA
 early popular visual culture,1746-0654,1746-0662,NA,1,0,0,0,NA,NA,"Humanities, Multidisciplinary","ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 early science and medicine,1383-7427,1573-3823,NA,1,0,1,0,History & Philosophy Of Science,NA,History & Philosophy Of Science,BRILL,NA
@@ -4069,7 +4069,7 @@ educational administration quarterly,0013-161X,1552-3519,NA,0,1,0,0,NA,Education
 educational and psychological measurement,0013-1644,1552-3888,NA,0,1,1,0,"Mathematics, Interdisciplinary Applications","Psychology, Educational | Psychology, Mathematical",NA,SAGE PUBLICATIONS INC,NA
 educational and psychological measurement,0013-1644,1552-3888,NA,0,1,1,0,"Mathematics, Interdisciplinary Applications","Psychology, Educational | Psychology, Mathematical",NA,SAGE PUBLICATIONS INC,NA
 educational assessment evaluation and accountability,1874-8597,1874-8600,NA,0,1,0,0,NA,Education & Educational Research,NA,SPRINGER HEIDELBERG,NA
-educational evaluation and policy analysis,0162-3737,1935-1062,NA,0,1,0,0,NA,Education & Educational Research,NA,SAGE PUBLICATIONS INC,NA
+educational evaluation and policy analysis,0162-3737,1935-1062,EEPAJournal,0,1,0,1,NA,Education & Educational Research,NA,SAGE PUBLICATIONS INC,NA
 educational gerontology,0360-1277,1521-0472,NA,0,1,0,0,NA,Education & Educational Research | Gerontology,NA,TAYLOR & FRANCIS INC,NA
 educational leadership,0013-1784,1943-5878,NA,0,1,0,0,NA,Education & Educational Research,NA,ASSOC SUPERVISION CURRICULUM DEVELOPMENT,NA
 educational management administration & leadership,1741-1432,1741-1440,NA,0,1,0,0,NA,Education & Educational Research,NA,SAGE PUBLICATIONS LTD,NA
@@ -4359,7 +4359,7 @@ environmental sciences europe,2190-4707,2190-4715,NA,0,0,1,0,Environmental Scien
 environmental technology,0959-3330,1479-487X,NA,0,0,1,0,Environmental Sciences,NA,NA,TAYLOR & FRANCIS LTD,NA
 environmental technology & innovation,2352-1864,2352-1864,NA,0,0,1,0,"Biotechnology & Applied Microbiology | Engineering, Environmental | Environmental Sciences",NA,NA,ELSEVIER,NA
 environmental toxicology,1520-4081,1522-7278,NA,0,0,1,0,Environmental Sciences | Toxicology | Water Resources,NA,NA,WILEY,NA
-environmental toxicology and chemistry,0730-7268,1552-8618,etc_editor,0,0,1,1,Environmental Sciences | Toxicology,NA,NA,WILEY,5/1/2014
+environmental toxicology and chemistry,0730-7268,1552-8618,NA,0,0,1,0,Environmental Sciences | Toxicology,NA,NA,WILEY,5/1/2014
 environmental toxicology and pharmacology,1382-6689,1872-7077,NA,0,0,1,0,Environmental Sciences | Pharmacology & Pharmacy | Toxicology,NA,NA,ELSEVIER,NA
 environmental values,0963-2719,1752-7015,J_EnvValues,0,1,0,1,NA,Ethics | Environmental Studies,NA,WHITE HORSE PRESS,7/19/2013
 environmetrics,1180-4009,1099-095X,NA,0,0,1,0,"Environmental Sciences | Mathematics, Interdisciplinary Applications | Statistics & Probability",NA,NA,WILEY,NA
@@ -4755,7 +4755,7 @@ experimental and molecular pathology,0014-4800,1096-0945,NA,0,0,1,0,Pathology,NA
 experimental and therapeutic medicine,1792-0981,1792-1015,EtMedicine,0,0,1,1,"Medicine, Research & Experimental",NA,NA,SPANDIDOS PUBL LTD,5/24/2018
 experimental animals,1341-1357,1881-7122,NA,0,0,1,0,Veterinary Sciences | Zoology,NA,NA,INT PRESS EDITING CENTRE INC,NA
 experimental astronomy,0922-6435,1572-9508,NA,0,0,1,0,Astronomy & Astrophysics,NA,NA,SPRINGER,NA
-experimental biology and medicine,1535-3702,1535-3699,EBM_LatinAm,0,0,1,1,"Medicine, Research & Experimental",NA,NA,SAGE PUBLICATIONS LTD,2/24/2019
+experimental biology and medicine,1535-3702,1535-3699,NA,0,0,1,0,"Medicine, Research & Experimental",NA,NA,SAGE PUBLICATIONS LTD,2/24/2019
 experimental brain research,0014-4819,1432-1106,ExpBrainRes,0,0,1,1,Neurosciences,NA,NA,SPRINGER,4/1/2019
 experimental cell research,0014-4827,1090-2422,NA,0,0,1,0,Oncology | Cell Biology,NA,NA,ELSEVIER INC,NA
 experimental dermatology,0906-6705,1600-0625,ExpDermatol,0,0,1,1,Dermatology,NA,NA,WILEY,11/24/2016
@@ -4872,7 +4872,7 @@ fems yeast research,1567-1356,1567-1364,NA,0,0,1,0,Biotechnology & Applied Micro
 fermentation-basel,2311-5637,2311-5637,Ferment_MDPI,0,0,1,1,Biotechnology & Applied Microbiology,NA,NA,MDPI,3/31/2017
 ferroelectrics,0015-0193,1563-5112,NA,0,0,1,0,"Materials Science, Multidisciplinary | Physics, Condensed Matter",NA,NA,TAYLOR & FRANCIS LTD,NA
 ferroelectrics letters section,0731-5171,1563-5228,NA,0,0,1,0,"Physics, Condensed Matter",NA,NA,TAYLOR & FRANCIS LTD,NA
-fertility and sterility,0015-0282,1556-5653,NA,0,0,1,0,Obstetrics & Gynecology | Reproductive Biology,NA,NA,ELSEVIER SCIENCE INC,NA
+fertility and sterility,0015-0282,1556-5653,FertStert,0,0,1,1,Obstetrics & Gynecology | Reproductive Biology,NA,NA,ELSEVIER SCIENCE INC,NA
 fetal and pediatric pathology,1551-3815,1551-3823,NA,0,0,1,0,Pathology | Pediatrics,NA,NA,TAYLOR & FRANCIS INC,NA
 fetal diagnosis and therapy,1015-3837,1421-9964,NA,0,0,1,0,Obstetrics & Gynecology,NA,NA,KARGER,NA
 few-body systems,0177-7963,1432-5411,NA,0,0,1,0,"Physics, Multidisciplinary",NA,NA,SPRINGER WIEN,NA
@@ -5147,7 +5147,7 @@ frontiers of materials science,2095-025X,2095-0268,NA,0,0,1,0,"Materials Science
 frontiers of mathematics in china,1673-3452,1673-3576,NA,0,0,1,0,Mathematics,NA,NA,HIGHER EDUCATION PRESS,NA
 frontiers of mechanical engineering,2095-0233,2095-0241,NA,0,0,1,0,"Engineering, Mechanical",NA,NA,HIGHER EDUCATION PRESS,NA
 frontiers of medicine,2095-0217,2095-0225,NA,0,0,1,0,"Oncology | Medicine, Research & Experimental",NA,NA,SPRINGER,NA
-frontiers of physics,2095-0462,2095-0470,frontphys,0,0,1,1,"Physics, Multidisciplinary",NA,NA,HIGHER EDUCATION PRESS,2/24/2022
+frontiers of physics,2095-0462,2095-0470,NA,0,0,1,0,"Physics, Multidisciplinary",NA,NA,HIGHER EDUCATION PRESS,2/24/2022
 frontiers of structural and civil engineering,2095-2430,2095-2449,NA,0,0,1,0,"Engineering, Civil",NA,NA,HIGHER EDUCATION PRESS,NA
 fruits,0248-1294,1625-967X,NA,0,0,1,0,Horticulture,NA,NA,INT SOC HORTICULTURAL SCIENCE-ISHS,NA
 fuel,0016-2361,1873-7153,NA,0,0,1,0,"Energy & Fuels | Engineering, Chemical",NA,NA,ELSEVIER SCI LTD,NA
@@ -5522,7 +5522,7 @@ harvard theological review,0017-8160,1475-4517,NA,1,0,0,0,NA,NA,Religion,CAMBRID
 haseltonia,1070-0048,1938-2898,NA,0,0,1,0,Plant Sciences,NA,NA,CACTUS SUCCULENT SOC AMER INC,NA
 hastings center report,0093-0334,1552-146X,NA,0,1,1,0,Health Care Sciences & Services | Medical Ethics,"Ethics | Social Sciences, Biomedical",NA,WILEY,NA
 hastings center report,0093-0334,1552-146X,NA,0,1,1,0,Health Care Sciences & Services | Medical Ethics,"Ethics | Social Sciences, Biomedical",NA,WILEY,NA
-hastings law journal,0017-8322,0017-8322,hastingslj,0,1,0,1,NA,Law,NA,UNIV CALIF,3/26/2013
+hastings law journal,0017-8322,0017-8322,NA,0,1,0,0,NA,Law,NA,UNIV CALIF,3/26/2013
 hau-journal of ethnographic theory,2575-1433,2049-1115,haujournal,0,1,0,1,NA,Anthropology,NA,UNIV CHICAGO PRESS,5/18/2011
 hautarzt,0017-8470,1432-1173,NA,0,0,1,0,Dermatology,NA,NA,SPRINGER HEIDELBERG,NA
 head & face medicine,1746-160X,1746-160X,HeadFaceMed,0,0,1,1,"Dentistry, Oral Surgery & Medicine",NA,NA,BMC,6/11/2009
@@ -5833,7 +5833,7 @@ human organization,0018-7259,1938-3525,NA,0,1,0,0,NA,"Anthropology | Social Scie
 human pathology,0046-8177,1532-8392,Human_Pathology,0,0,1,1,Pathology,NA,NA,W B SAUNDERS CO-ELSEVIER INC,2/12/2017
 human performance,0895-9285,1532-7043,NA,0,1,0,0,NA,"Psychology, Applied",NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
 human psychopharmacology-clinical and experimental,0885-6222,1099-1077,NA,0,0,1,0,Clinical Neurology | Pharmacology & Pharmacy | Psychiatry | Psychology,NA,NA,WILEY,NA
-human relations,0018-7267,1741-282X,NA,0,1,0,0,NA,"Management | Social Sciences, Interdisciplinary",NA,SAGE PUBLICATIONS LTD,NA
+human relations,0018-7267,1741-282X,HR_TIHR,0,1,0,1,NA,"Management | Social Sciences, Interdisciplinary",NA,SAGE PUBLICATIONS LTD,NA
 human reproduction,0268-1161,1460-2350,NA,0,0,1,0,Obstetrics & Gynecology | Reproductive Biology,NA,NA,OXFORD UNIV PRESS,NA
 human reproduction open,2399-3529,2399-3529,NA,0,0,1,0,Obstetrics & Gynecology | Reproductive Biology,NA,NA,OXFORD UNIV PRESS,NA
 human reproduction update,1355-4786,1460-2369,NA,0,0,1,0,Obstetrics & Gynecology | Reproductive Biology,NA,NA,OXFORD UNIV PRESS,NA
@@ -6250,7 +6250,7 @@ information processing & management,0306-4573,1873-5371,NA,0,1,1,0,"Computer Sci
 information processing & management,0306-4573,1873-5371,NA,0,1,1,0,"Computer Science, Information Systems",Information Science & Library Science,NA,ELSEVIER SCI LTD,NA
 information processing letters,0020-0190,1872-6119,NA,0,0,1,0,"Computer Science, Information Systems",NA,NA,ELSEVIER,NA
 information research-an international electronic journal,1368-1613,1368-1613,NA,0,1,0,0,NA,Information Science & Library Science,NA,UNIV SHEFFIELD DEPT INFORMATION STUDIES,NA
-information retrieval journal,1386-4564,1573-7659,SpringerIRJ,0,0,1,1,"Computer Science, Information Systems",NA,NA,SPRINGER,12/31/2017
+information retrieval journal,1386-4564,1573-7659,NA,0,0,1,0,"Computer Science, Information Systems",NA,NA,SPRINGER,12/31/2017
 information sciences,0020-0255,1872-6291,NA,0,0,1,0,"Computer Science, Information Systems",NA,NA,ELSEVIER SCIENCE INC,NA
 information society,0197-2243,1087-6537,NA,0,1,0,0,NA,Communication | Information Science & Library Science,NA,TAYLOR & FRANCIS INC,NA
 information systems,0306-4379,1873-6076,NA,0,0,1,0,"Computer Science, Information Systems",NA,NA,PERGAMON-ELSEVIER SCIENCE LTD,NA
@@ -6318,7 +6318,7 @@ insurance mathematics & economics,0167-6687,1873-5959,NA,0,1,1,0,"Mathematics, I
 integral equations and operator theory,0378-620X,1420-8989,NA,0,0,1,0,Mathematics,NA,NA,SPRINGER BASEL AG,NA
 integral transforms and special functions,1065-2469,1476-8291,NA,0,0,1,0,"Mathematics, Applied | Mathematics",NA,NA,TAYLOR & FRANCIS LTD,NA
 integrated computer-aided engineering,1069-2509,1875-8835,NA,0,0,1,0,"Computer Science, Artificial Intelligence | Computer Science, Interdisciplinary Applications | Engineering, Multidisciplinary",NA,NA,IOS PRESS,NA
-integrated environmental assessment and management,1551-3777,1551-3793,ieam_editor,0,0,1,1,Environmental Sciences | Toxicology,NA,NA,WILEY,11/12/2012
+integrated environmental assessment and management,1551-3777,1551-3793,NA,0,0,1,0,Environmental Sciences | Toxicology,NA,NA,WILEY,11/12/2012
 integrated ferroelectrics,1058-4587,1607-8489,NA,0,0,1,0,"Engineering, Electrical & Electronic | Physics, Applied | Physics, Condensed Matter",NA,NA,TAYLOR & FRANCIS LTD,NA
 integrating materials and manufacturing innovation,2193-9764,2193-9772,NA,0,0,1,0,"Engineering, Manufacturing | Materials Science, Multidisciplinary",NA,NA,SPRINGER HEIDELBERG,NA
 integration-the vlsi journal,0167-9260,1872-7522,NA,0,0,1,0,"Computer Science, Hardware & Architecture | Engineering, Electrical & Electronic",NA,NA,ELSEVIER,NA
@@ -6569,7 +6569,7 @@ international journal of eating disorders,0276-3478,1098-108X,IntJEatDisord,0,1,
 international journal of economic theory,1742-7355,1742-7363,NA,0,1,0,0,NA,Economics,NA,WILEY,NA
 international journal of educational development,0738-0593,1873-4871,NA,0,1,0,0,NA,Education & Educational Research,NA,PERGAMON-ELSEVIER SCIENCE LTD,NA
 international journal of educational research,0883-0355,1873-538X,NA,0,1,0,0,NA,Education & Educational Research,NA,ELSEVIER SCI LTD,NA
-international journal of educational technology in higher education,2365-9440,2365-9440,NA,0,1,0,0,NA,Education & Educational Research,NA,SPRINGER,NA
+international journal of educational technology in higher education,2365-9440,2365-9440,ETHEjournal,0,1,0,1,NA,Education & Educational Research,NA,SPRINGER,NA
 international journal of electrical power & energy systems,0142-0615,1879-3517,NA,0,0,1,0,"Engineering, Electrical & Electronic",NA,NA,ELSEVIER SCI LTD,NA
 international journal of electrochemical science,1452-3981,1452-3981,NA,0,0,1,0,Electrochemistry,NA,NA,ESG,NA
 international journal of electronic commerce,1086-4415,1557-9301,NA,0,1,1,0,"Computer Science, Software Engineering",Business,NA,"ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD",NA
@@ -10723,7 +10723,7 @@ modern italy,1353-2944,1469-9877,NA,1,1,0,0,NA,History | Area Studies,History,CA
 modern italy,1353-2944,1469-9877,NA,1,1,0,0,NA,History | Area Studies,History,CAMBRIDGE UNIV PRESS,NA
 modern judaism,0276-1114,1086-3273,NA,1,0,0,0,NA,NA,"Humanities, Multidisciplinary",OXFORD UNIV PRESS INC,NA
 modern language journal,0026-7902,1540-4781,NA,0,1,0,0,NA,Education & Educational Research | Linguistics,NA,WILEY,NA
-modern language quarterly,0026-7929,1527-1943,ModLangQ,1,0,0,1,NA,NA,Literature,DUKE UNIV PRESS,11/11/2015
+modern language quarterly,0026-7929,1527-1943,NA,1,0,0,0,NA,NA,Literature,DUKE UNIV PRESS,11/11/2015
 modern language review,0026-7937,2222-4319,NA,1,0,0,0,NA,NA,Literature | Language & Linguistics,MODERN HUMANITIES RESEARCH ASSOCIATION,NA
 modern law review,0026-7961,1468-2230,modernlrev,0,1,0,1,NA,Law,NA,WILEY,10/30/2014
 modern pathology,0893-3952,1530-0285,ModernPathology,0,0,1,1,Pathology,NA,NA,SPRINGERNATURE,1/23/2017
@@ -13371,7 +13371,7 @@ scriblerian and the kit-cats,0036-9640,2165-0624,NA,1,0,0,0,NA,NA,"Literature, B
 scripta materialia,1359-6462,1872-8456,NA,0,0,1,0,"Nanoscience & Nanotechnology | Materials Science, Multidisciplinary | Metallurgy & Metallurgical Engineering",NA,NA,PERGAMON-ELSEVIER SCIENCE LTD,NA
 scripta nova-revista electronica de geografia y ciencias sociales,1138-9788,1138-9788,GeocriticaN,0,1,0,1,NA,Geography,NA,"UNIV BARCELONA, DEPT GEOGRAFIA HUMANA",5/10/2021
 scriptorium,0036-9772,2526-8848,NA,1,0,0,0,NA,NA,Literature | Medieval & Renaissance Studies,CULTURA,NA
-sculpture journal,1366-2724,1756-9923,SculptureJnl,1,0,0,1,NA,NA,Art,LIVERPOOL UNIV PRESS,10/29/2020
+sculpture journal,1366-2724,1756-9923,NA,1,0,0,0,NA,NA,Art,LIVERPOOL UNIV PRESS,10/29/2020
 sculpture review,0747-5284,2632-3494,NA,1,0,0,0,NA,NA,Art,SAGE PUBLICATIONS INC,NA
 sea technology,0093-3651,NA,NA,0,0,1,0,"Engineering, Ocean",NA,NA,"COMPASS PUBLICATIONS, INC",NA
 second language research,0267-6583,1477-0326,NA,0,1,0,0,NA,Education & Educational Research | Linguistics,NA,SAGE PUBLICATIONS LTD,NA
@@ -14547,7 +14547,7 @@ universitas-monthly review of philosophy and culture,1015-8383,1015-8383,NA,1,0,
 universitas psychologica,1657-9267,2011-2777,UniversitasPsyc,0,1,0,1,NA,"Psychology, Multidisciplinary",NA,"PONTIFICA UNIV JAVERIANA, FAC PSYCH",6/10/2009
 university of chicago law review,0041-9494,NA,uchilrev,0,1,0,1,NA,Law,NA,UNIV CHICAGO LAW SCH,1/28/2012
 university of cincinnati law review,0009-6881,1942-8391,NA,0,1,0,0,NA,Law,NA,UNIV CINCINNATI LAW REVIEW,3/20/2018
-university of illinois law review,0276-9948,1942-9231,uilllrev,0,1,0,1,NA,Law,NA,UNIV ILLINOIS,4/3/2012
+university of illinois law review,0276-9948,1942-9231,NA,0,1,0,0,NA,Law,NA,UNIV ILLINOIS,4/3/2012
 university of pennsylvania journal of international law,1938-0283,NA,NA,0,1,0,0,NA,Law,NA,UNIV PENN LAW SCH,NA
 university of pennsylvania law review,0041-9907,NA,pennlrev,0,1,0,1,NA,Law,NA,UNIV PENN LAW SCH,11/2/2012
 university of pittsburgh law review,0041-9915,1942-8405,pittlawreview,0,1,0,1,NA,Law,NA,"UNIV PITTSBURGH, UNIV LIBRARY SYSTEM",5/17/2014
